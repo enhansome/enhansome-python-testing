@@ -1,0 +1,2589 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dirty-equals",
+          "description": "A python library that (mis)uses the method to make python code (generally unit tests) more declarative and therefore easier to read and write.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T11:48:55Z",
+            "owner": "samuelcolvin",
+            "repo": "dirty-equals",
+            "stars": 1004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyHamcrest",
+          "description": "A framework for writing matcher objects, allowing you to declaratively define \"match\" rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-12T14:23:26Z",
+            "owner": "hamcrest",
+            "repo": "PyHamcrest",
+            "stars": 804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sure",
+          "description": "An idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-01T23:51:09Z",
+            "owner": "gabrielfalcao",
+            "repo": "sure",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Precisely",
+          "description": "Write precise assertions so you only test the behaviour you're really interested in.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-16T20:48:21Z",
+            "owner": "mwilliamson",
+            "repo": "python-precisely",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "expects",
+          "description": "Expects is an expressive and extensible TDD/BDD assertion library for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-17T23:33:31Z",
+            "owner": "jaimegildesagredo",
+            "repo": "expects",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "easycheck",
+          "description": "A collection of assertion-like functions to be used in code, where assertion themselves should be avoided; includes also function aliases to be used in unit testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-29T08:45:54Z",
+            "owner": "nyggus",
+            "repo": "easycheck",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "expycted",
+          "description": "Another Python expect pattern implementation. Simple, intuitive and approachable, with ability to plug in to any testing framework that relies on assertions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-01T13:15:56Z",
+            "owner": "bdsoha",
+            "repo": "expycted",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "believe",
+          "description": "A python package for json/dictionary validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-08T07:28:48Z",
+            "owner": "pkyosx",
+            "repo": "believe",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest_cache_assert",
+          "description": "Cache assertion data to simplify regression testing of complex serializable data.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-08-30T23:23:43Z",
+            "owner": "KyleKing",
+            "repo": "pytest_cache_assert",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Assertions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "behave",
+          "description": "is behavior-driven development, Python style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:38:01Z",
+            "owner": "behave",
+            "repo": "behave",
+            "stars": 3523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lettuce",
+          "description": "Behavior-driven-development tool for python, inspired by Cucumber for Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-29T05:50:58Z",
+            "owner": "gabrielfalcao",
+            "repo": "lettuce",
+            "stars": 1277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-pyspec",
+          "description": "Transforms pytest output into a beautiful, readable format similar to RSpec. It provides semantic meaning to your tests by organizing them into descriptive hierarchies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-18T02:56:11Z",
+            "owner": "felipecrp",
+            "repo": "pytest-pyspec",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Behavior-driven Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coverage.py",
+          "description": "is a tool for measuring code coverage of Python programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T23:28:57Z",
+            "owner": "coveragepy",
+            "repo": "coveragepy",
+            "stars": 3407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diff_cover",
+          "description": "Automatically find diff lines that need test coverage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T17:22:51Z",
+            "owner": "Bachmann1234",
+            "repo": "diff_cover",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coverage-conditional-plugin",
+          "description": "Conditional coverage based on any rules you define.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-03T19:48:27Z",
+            "owner": "wemake-services",
+            "repo": "coverage-conditional-plugin",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Code Coverage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "deal",
+          "description": "Design by contract for Python with static checker and test generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-30T10:55:47Z",
+            "owner": "life4",
+            "repo": "deal",
+            "stars": 903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pact-python",
+          "description": "Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:35:25Z",
+            "owner": "pact-foundation",
+            "repo": "pact-python",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "icontract",
+          "description": "Design-by-contract in Python3 with informative violation messages and inheritance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-29T13:10:53Z",
+            "owner": "Parquery",
+            "repo": "icontract",
+            "stars": 411
+          }
+        }
+      ],
+      "title": "Design by Contract"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "faker",
+          "description": "A Python package that generates fake data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:10:57Z",
+            "owner": "joke2k",
+            "repo": "faker",
+            "stars": 19369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mimesis",
+          "description": "A Python library that helps you generate fake data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:36:40Z",
+            "owner": "lk-geimfari",
+            "repo": "mimesis",
+            "stars": 4840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fake2db",
+          "description": "Fake database generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-25T09:19:01Z",
+            "owner": "emirozer",
+            "repo": "fake2db",
+            "stars": 2349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autofaker",
+          "description": "designed to minimize the setup/arrange phase of your unit tests by removing the need to manually write code to create anonymous variables as part of a test cases setup/arrange phase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T18:14:46Z",
+            "owner": "christianhelle",
+            "repo": "autofaker",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "genuine-fake",
+          "description": "Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-20T10:33:08Z",
+            "owner": "xeroxzen",
+            "repo": "genuine-fake",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Fake Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pytest-deadfixtures",
+          "description": "A simple plugin to list unused or duplicated fixtures in a pytest suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T20:15:36Z",
+            "owner": "jllorencetti",
+            "repo": "pytest-deadfixtures",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-mysql",
+          "description": "A pytest plugin, that enables you to test your code that relies on a running MySQL Database. It allows you to specify fixtures for MySQL process and client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:51:52Z",
+            "owner": "dbfixtures",
+            "repo": "pytest-mysql",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-rabbitmq",
+          "description": "A pytest plugin, that enables you to test your code that relies on a running RabbitMQ server. It allows you to specify fixtures for RabbitMQ server and client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:50:03Z",
+            "owner": "dbfixtures",
+            "repo": "pytest-rabbitmq",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protestr",
+          "description": "A simple, powerful fixture provider for Python tests. Protestr's intuitive API lets you generate versatile fixtures for your test cases and inject them as dependencies on demand.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-08T10:19:31Z",
+            "owner": "Grimmscorpp",
+            "repo": "protestr",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Fixtures"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mcp-server-fuzzer",
+          "description": "A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T09:41:14Z",
+            "owner": "Agent-Hellboy",
+            "repo": "mcp-server-fuzzer",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tenro",
+          "description": "An open-source, provider-agnostic testing framework for AI agents that integrates with pytest. It simulates LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T05:57:54Z",
+            "owner": "tenro-ai",
+            "repo": "tenro-python",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sabot",
+          "description": "Plants controlled faults inside running multi-agent pipelines (LangGraph, CrewAI, AutoGen) and scores whether each pipeline's own reviewer and guardrail stages detect them. Pre-registered spec, deterministic adjudication, published raw traces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T21:53:09Z",
+            "owner": "Jott2121",
+            "repo": "sabot",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "LLM & MCP Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Locust",
+          "description": "Scalable user load testing tool written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:07:35Z",
+            "owner": "locustio",
+            "repo": "locust",
+            "stars": 28070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grasshopper",
+          "description": "A lightweight framework for performing load tests against an environment, primarily against an API. Grasshopper glues Locust, Pytest, some plugins (namely Locust InfluxDBListener ) and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T12:08:02Z",
+            "owner": "alteryx",
+            "repo": "locust-grasshopper",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pynonymizer",
+          "description": "is a universal tool for translating sensitive production database dumps into anonymized copies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T11:03:27Z",
+            "owner": "rwnx",
+            "repo": "pynonymizer",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grizzly",
+          "description": "is a framework to be able to easily define load scenarios, and is mainly built on-top of Locust and Behave.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T06:09:48Z",
+            "owner": "Biometria-se",
+            "repo": "grizzly",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Workload Model",
+          "description": "Code to generate dynamic workload model. Useful for testing autoscaling in cloud or mimicking different load profile for different scenario.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-16T09:24:18Z",
+            "owner": "hseera",
+            "repo": "dynamic-workload-model",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pywrkr",
+          "description": "HTTP benchmarking CLI inspired by wrk and ApacheBench (ab), with latency percentiles, virtual-user simulation, constant-rate and traffic-profile load shaping, HAR import, and pass/fail SLO thresholds for CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T10:05:05Z",
+            "owner": "kurok",
+            "repo": "pywrkr",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Load Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pympler",
+          "description": "is a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-07T07:19:44Z",
+            "owner": "pympler",
+            "repo": "pympler",
+            "stars": 1408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "filprofiler",
+          "description": "A Python memory profiler for data processing and scientific computing applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-03T15:32:41Z",
+            "owner": "pythonspeed",
+            "repo": "filprofiler",
+            "stars": 906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guppy 3",
+          "description": "a Python programming environment & heap analysis toolset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-18T01:12:42Z",
+            "owner": "zhuyifei1999",
+            "repo": "guppy3",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mem_top",
+          "description": "shows top suspects for memory leaks in your Python program.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-13T15:38:17Z",
+            "owner": "denis-ryzhkov",
+            "repo": "mem_top",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "Memory Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "moto",
+          "description": "allows you to easily mock out tests based on AWS infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:27:24Z",
+            "owner": "getmoto",
+            "repo": "moto",
+            "stars": 8613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freezegun",
+          "description": "Travel through time by mocking the datetime module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-19T19:29:42Z",
+            "owner": "spulec",
+            "repo": "freezegun",
+            "stars": 4522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "responses",
+          "description": "A utility library for mocking out the requests Python library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T15:18:04Z",
+            "owner": "getsentry",
+            "repo": "responses",
+            "stars": 4344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpretty",
+          "description": "HTTP request mock tool for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-09T14:37:11Z",
+            "owner": "gabrielfalcao",
+            "repo": "HTTPretty",
+            "stars": 2165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "time-machine",
+          "description": "Travel through time in your tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:57:17Z",
+            "owner": "adamchainz",
+            "repo": "time-machine",
+            "stars": 991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyfakefs",
+          "description": "A fake file system that mocks the Python file system modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:44:30Z",
+            "owner": "pytest-dev",
+            "repo": "pyfakefs",
+            "stars": 750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trustme",
+          "description": "gives you a fake certificate authority (CA) that you can use to generate fake TLS certs to use in your tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T12:53:26Z",
+            "owner": "python-trio",
+            "repo": "trustme",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aioresponses",
+          "description": "is a helper for mock/fake web requests in python aiohttp package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T21:15:11Z",
+            "owner": "pnuckowski",
+            "repo": "aioresponses",
+            "stars": 557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httmock",
+          "description": "A mocking library for requests for Python 2.6+ and 3.2+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-29T20:58:48Z",
+            "owner": "patrys",
+            "repo": "httmock",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pretend",
+          "description": "is a library to make stubbing with Python easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-22T05:11:32Z",
+            "owner": "alex",
+            "repo": "pretend",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mocket",
+          "description": "A socket mock framework with gevent/asyncio/SSL support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T09:57:15Z",
+            "owner": "mindflayer",
+            "repo": "python-mocket",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mockintosh",
+          "description": "aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-20T17:16:51Z",
+            "owner": "up9inc",
+            "repo": "mockintosh",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cornell",
+          "description": "record & replay mock server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T13:43:46Z",
+            "owner": "hiredscorelabs",
+            "repo": "cornell",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mockafka",
+          "description": "Python library designed for mocking Kafka in a testing environment. It simplifies testing Kafka-integrated applications by providing an in-memory mock for aiokafka and confluent-kafka-python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T15:54:23Z",
+            "owner": "alm0ra",
+            "repo": "mockafka-py",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flexmock",
+          "description": "is a testing library for Python that makes it easy to create mocks, stubs and fakes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T17:48:56Z",
+            "owner": "flexmock",
+            "repo": "flexmock",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D-MemFS",
+          "description": "Zero-dependency in-memory virtual filesystem with hard quotas. Provides an explicit, isolated instance instead of patching global state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-22T20:07:27Z",
+            "owner": "nightmarewalker",
+            "repo": "D-MemFS",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kesha",
+          "description": "A web service with a user interface for testing http requests and web hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-06T05:04:53Z",
+            "owner": "NUTtech",
+            "repo": "Kesha",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-tripwire",
+          "description": "Pytest plugin for full-certainty test mocking, every recorded interaction must be explicitly asserted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T08:05:01Z",
+            "owner": "axiomantic",
+            "repo": "pytest-tripwire",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Mock and Stub"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mutmut",
+          "description": "is a mutation testing system for Python, with a strong focus on ease of use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T15:46:58Z",
+            "owner": "boxed",
+            "repo": "mutmut",
+            "stars": 1389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cosmic Ray",
+          "description": "makes small changes to your source code, running your test suite for each one.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T14:57:30Z",
+            "owner": "sixty-north",
+            "repo": "cosmic-ray",
+            "stars": 647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MutPy",
+          "description": "MutPy is a mutation testing tool for Python 3.x source code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-23T10:33:07Z",
+            "owner": "mutpy",
+            "repo": "mutpy",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mutatest",
+          "description": "Python mutation testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-17T12:23:43Z",
+            "owner": "EvanKepner",
+            "repo": "mutatest",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xmutant.py",
+          "description": "Python 3.6 bytecode based mutation analysis framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-18T17:25:55Z",
+            "owner": "vrthra",
+            "repo": "xmutant.py",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bough",
+          "description": "Bough is a polyglot incremental mutation tester.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-10T22:02:42Z",
+            "owner": "CodeEnPlace",
+            "repo": "bough",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crucible",
+          "description": "Adversarial test-hardening for AI-written code, built on mutmut. A Tester agent writes tests, mutation testing names the survivors, and a Critic agent kills exactly those.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T19:08:34Z",
+            "owner": "Jott2121",
+            "repo": "crucible",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Mutation Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "factory_boy",
+          "description": "A test fixtures replacement for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-01T19:04:12Z",
+            "owner": "FactoryBoy",
+            "repo": "factory_boy",
+            "stars": 3806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polyfactory",
+          "description": "A simple and powerful mock data generation library, based around type hints and supporting dataclasses, typed-dicts, pydantic models, msgspec structs and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T07:09:26Z",
+            "owner": "litestar-org",
+            "repo": "polyfactory",
+            "stars": 1500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model Bakery",
+          "description": "offers you a smart way to create fixtures for testing in Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T09:33:19Z",
+            "owner": "model-bakers",
+            "repo": "model_bakery",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mixer",
+          "description": "Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-08T09:29:07Z",
+            "owner": "klen",
+            "repo": "mixer",
+            "stars": 955
+          }
+        }
+      ],
+      "title": "Object Factories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "python-pentest-tools",
+          "description": "Python tools for penetration testers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-22T11:49:08Z",
+            "owner": "dloss",
+            "repo": "python-pentest-tools",
+            "stars": 2882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fsociety",
+          "description": "A Modular Penetration Testing Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:14:31Z",
+            "owner": "fsociety-team",
+            "repo": "fsociety",
+            "stars": 1810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fencer",
+          "description": "Fencer is an automated API security testing tool. It's an experimental project to see how much of the API security testing process can be automated.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T12:06:28Z",
+            "owner": "abunuwas",
+            "repo": "fencer",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "Penetration Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hypothesis",
+          "description": "is an advanced Quickcheck style property based testing library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:33:29Z",
+            "owner": "HypothesisWorks",
+            "repo": "hypothesis",
+            "stars": 8883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atheris",
+          "description": "is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T17:35:18Z",
+            "owner": "google",
+            "repo": "atheris",
+            "stars": 1659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hypothesis-auto",
+          "description": "An extensions for Hypothesis that provides fully automatic testing for type hinted functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-23T07:55:49Z",
+            "owner": "timothycrosley",
+            "repo": "hypothesis-auto",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hypofuzz",
+          "description": "Adaptive fuzzing of Hypothesis tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-15T15:50:48Z",
+            "owner": "Zac-HD",
+            "repo": "hypofuzz",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "icontract-hypothesis",
+          "description": "Instead of writing manually the Hypothesis search strategies for a function, infers them based on the function's precondition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-05T20:45:22Z",
+            "owner": "mristin",
+            "repo": "icontract-hypothesis",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hypothesis-crosshair",
+          "description": "Add the power of solver-based symbolic execution to your Hypothesis tests with CrossHair.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T15:42:36Z",
+            "owner": "pschanely",
+            "repo": "hypothesis-crosshair",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Property Based Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pytest-html-plus",
+          "description": "Get a self-contained, actionable, easy-to-read single page HTML unified reports summarizing all your test results. Detect flaky tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:53:45Z",
+            "owner": "reporterplus",
+            "repo": "pytest-html-plus",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-cloudreport",
+          "description": "A pytest plugin that automatically detects flaky tests, tracks CI stability over time, and generates a self-contained HTML report with an optional cloud dashboard for team visibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T10:00:04Z",
+            "owner": "ahmad212o",
+            "repo": "pytest-cloudreport",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Reporting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HttpRunner",
+          "description": "is a simple & elegant, yet powerful HTTP(S) testing framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-11T16:50:50Z",
+            "owner": "httprunner",
+            "repo": "httprunner",
+            "stars": 4295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dredd",
+          "description": "is a language-agnostic command-line tool for validating API description document against backend implementation of the API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-11T13:19:25Z",
+            "owner": "apiaryio",
+            "repo": "dredd",
+            "stars": 4222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Schemathesis",
+          "description": "A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:41:19Z",
+            "owner": "schemathesis",
+            "repo": "schemathesis",
+            "stars": 3520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RESTler",
+          "description": "is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T13:05:25Z",
+            "owner": "microsoft",
+            "repo": "restler-fuzzer",
+            "stars": 2933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cherrybomb",
+          "description": "CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-25T10:04:00Z",
+            "owner": "blst-security",
+            "repo": "cherrybomb",
+            "stars": 1233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tavern",
+          "description": "is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T05:09:50Z",
+            "owner": "taverntesting",
+            "repo": "tavern",
+            "stars": 1151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playback",
+          "description": "A Python decorator-based framework that lets you \"record\" and \"replay\" operations (e.g. API requests, workers consuming jobs from queues).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T06:34:58Z",
+            "owner": "Optibus",
+            "repo": "playback",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "behave-restful",
+          "description": "BDD Framework to Test REST Services and APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T01:18:01Z",
+            "owner": "abantos",
+            "repo": "behave-restful",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hypothesis-graphql",
+          "description": "Hypothesis strategies for GraphQL schemas, queries and data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:43:33Z",
+            "owner": "Stranger6667",
+            "repo": "hypothesis-graphql",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postman2pytest",
+          "description": "A CLI tool to convert Postman Collection v2.1 JSON files into runnable pytest suites, supporting environment variable substitution, folder filtering, and stress-test generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T05:23:17Z",
+            "owner": "golikovichev",
+            "repo": "postman2pytest",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Rest API Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pytest-rerunfailures",
+          "description": "A pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:12:28Z",
+            "owner": "pytest-dev",
+            "repo": "pytest-rerunfailures",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-check",
+          "description": "A pytest plugin that allows multiple failed assertions per test function, so you can see the whole picture of what's going wrong.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T06:27:35Z",
+            "owner": "okken",
+            "repo": "pytest-check",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-retry",
+          "description": "A simple plugin for retrying flaky tests in CI environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-19T01:53:30Z",
+            "owner": "str0zzapreti",
+            "repo": "pytest-retry",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Retrying Tests"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VCR.py",
+          "description": "Record and replay HTTP interactions on your tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T13:33:50Z",
+            "owner": "kevin1024",
+            "repo": "vcrpy",
+            "stars": 2982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "syrupy",
+          "description": "is a zero-dependency pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T15:17:54Z",
+            "owner": "syrupy-project",
+            "repo": "syrupy",
+            "stars": 872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inline-snapshot",
+          "description": "a pytest plugin that boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:10:53Z",
+            "owner": "15r10nk",
+            "repo": "inline-snapshot",
+            "stars": 749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SnapshotTest",
+          "description": "is a way to test your APIs without writing actual test cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-01T09:35:34Z",
+            "owner": "syrusakbary",
+            "repo": "snapshottest",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ApprovalTests",
+          "description": "work by comparing the test results to a golden master.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:11:22Z",
+            "owner": "approvals",
+            "repo": "ApprovalTests.Python",
+            "stars": 209
+          }
+        }
+      ],
+      "title": "Snapshot Tests"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pytest-testmon",
+          "description": "Selects tests affected by changed files. Continuous test runner when used with pytest-watch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-01T07:34:04Z",
+            "owner": "tarpas",
+            "repo": "pytest-testmon",
+            "stars": 1004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-picked",
+          "description": "Run only tests from modified test files, or run tests from modified test files first, followed by all unmodified tests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T04:16:31Z",
+            "owner": "anapaulagomes",
+            "repo": "pytest-picked",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome pytest speedup",
+          "description": "A checklist of best practices to speed up your pytest suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-13T17:29:24Z",
+            "owner": "zupo",
+            "repo": "awesome-pytest-speedup",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Partial Testing",
+          "description": "Run only the tests that are relevant for your changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-25T10:25:56Z",
+            "owner": "man-group",
+            "repo": "partialtesting",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pytest-incremental",
+          "description": "analyses your project structure and file modifications between test-runs to modify the order tests are executed and de-select tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T14:05:53Z",
+            "owner": "pytest-dev",
+            "repo": "pytest-incremental",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Django-Mercury-Performance-Testing",
+          "description": "Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-11T13:01:24Z",
+            "owner": "smattymatty",
+            "repo": "Django-Mercury-Performance-Testing",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-deltatest",
+          "description": "Run only the tests affected by your code changes using SQLite-based coverage mappings, optimized for local pre-commit workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T17:27:42Z",
+            "owner": "deltatest-org",
+            "repo": "pytest-deltatest",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Speed"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ruff",
+          "description": "An extremely fast Python linter, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T19:37:19Z",
+            "owner": "astral-sh",
+            "repo": "ruff",
+            "stars": 49187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bandit",
+          "description": "is a tool designed to find common security issues in Python code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T03:25:32Z",
+            "owner": "PyCQA",
+            "repo": "bandit",
+            "stars": 8212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pylint",
+          "description": "A Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:55:03Z",
+            "owner": "pylint-dev",
+            "repo": "pylint",
+            "stars": 5712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typos",
+          "description": "A Source code spell checker that finds and corrects spelling mistakes in source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T13:46:08Z",
+            "owner": "crate-ci",
+            "repo": "typos",
+            "stars": 4084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refurb",
+          "description": "A tool for refurbishing and modernizing Python codebases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-03T21:43:32Z",
+            "owner": "dosisod",
+            "repo": "refurb",
+            "stars": 2534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-python-typing",
+          "description": "Collection of awesome Python types, stubs, plugins, and tools to work with them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-19T06:03:10Z",
+            "owner": "typeddjango",
+            "repo": "awesome-python-typing",
+            "stars": 1976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyflakes",
+          "description": "A simple program which checks Python source files for errors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-20T18:45:32Z",
+            "owner": "PyCQA",
+            "repo": "pyflakes",
+            "stars": 1456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-flake8-extensions",
+          "description": "A curated list of awesome flake8 extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-21T07:29:57Z",
+            "owner": "DmytroLitvinov",
+            "repo": "awesome-flake8-extensions",
+            "stars": 1279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "complexipy",
+          "description": "An extremely fast Python library to calculate the cognitive complexity of Python files, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:21:17Z",
+            "owner": "rohaquinlop",
+            "repo": "complexipy",
+            "stars": 749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyanalyze",
+          "description": "A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and some categories of type mismatches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-27T19:52:37Z",
+            "owner": "quora",
+            "repo": "pyanalyze",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slotscheck",
+          "description": "Find mistakes in your definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T04:30:57Z",
+            "owner": "ariebovenberg",
+            "repo": "slotscheck",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typecheckers",
+          "description": "A list of Python type checkers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-19T05:34:30Z",
+            "owner": "emmatyping",
+            "repo": "python-typecheckers",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Static Checks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nox",
+          "description": "is a command-line tool that automates testing in multiple Python environments, similar to tox. Unlike tox, Nox uses a standard Python file for configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T05:28:18Z",
+            "owner": "wntrblm",
+            "repo": "nox",
+            "stars": 1549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "green",
+          "description": "A clean, colorful test runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-12T22:24:35Z",
+            "owner": "CleanCut",
+            "repo": "green",
+            "stars": 806
+          }
+        }
+      ],
+      "title": "Test Runners"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Robot Framework",
+          "description": "A generic test automation framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T10:48:31Z",
+            "owner": "robotframework",
+            "repo": "robotframework",
+            "stars": 11818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-django",
+          "description": "A pytest plugin for Django applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:42:59Z",
+            "owner": "pytest-dev",
+            "repo": "pytest-django",
+            "stars": 1543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ward",
+          "description": "is a modern test framework for Python with a focus on productivity and readability.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-08-26T22:58:48Z",
+            "owner": "darrenburns",
+            "repo": "ward",
+            "stars": 1208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nose2",
+          "description": "The successor to , based on .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:02:44Z",
+            "owner": "nose-devs",
+            "repo": "nose2",
+            "stars": 826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maelstrom",
+          "description": "Maelstrom is a fast Rust and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-23T19:28:14Z",
+            "owner": "maelstrom-software",
+            "repo": "maelstrom",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-pytest",
+          "description": "A curated list of awesome pytest resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-24T17:41:32Z",
+            "owner": "augustogoulart",
+            "repo": "awesome-pytest",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "promptimize",
+          "description": "a prompt engineering evaluation and testing toolkit. It accelerates and provides structure around prompt engineering at scale with confidence, bringing some of the ideas behind test-driven development (TDD) to engineering prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T21:07:55Z",
+            "owner": "preset-io",
+            "repo": "promptimize",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "testbook",
+          "description": "A unit testing framework extension for testing code in Jupyter Notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-25T01:24:05Z",
+            "owner": "nteract",
+            "repo": "testbook",
+            "stars": 435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xdoctest",
+          "description": "A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T02:36:49Z",
+            "owner": "Erotemic",
+            "repo": "xdoctest",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "async-asgi-testclient",
+          "description": "A framework-agnostic library for testing ASGI web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-29T14:52:47Z",
+            "owner": "vinissimus",
+            "repo": "async-asgi-testclient",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hammett",
+          "description": "Fast python test runner, compatible with a subset of pytest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-23T10:59:33Z",
+            "owner": "boxed",
+            "repo": "hammett",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vedro",
+          "description": "Pragmatic testing framework for Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T21:01:03Z",
+            "owner": "vedro-universe",
+            "repo": "vedro",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "perftester",
+          "description": "A lightweight framework for performance testing of Python functions; allows for testing of performance in terms of execution time and memory usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T06:43:04Z",
+            "owner": "nyggus",
+            "repo": "perftester",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tryke",
+          "description": "A Rust-based Python test runner with a Jest-style API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T08:09:25Z",
+            "owner": "thejchap",
+            "repo": "tryke",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rut",
+          "description": "A modern and fully-featured test runner for Python's unittest framework (not ), with simplicity as a core design goal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T13:20:02Z",
+            "owner": "schettino72",
+            "repo": "rut",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sundew",
+          "description": "Sundew is a testing framework for Python, implementing a new approach to testing. One that combines functional programming concepts and the general best practices for writing tests that we already know, and enforces them in a way that enables some really powerful features that make testing easier, enjoyable, and more effective.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-05-07T17:18:51Z",
+            "owner": "devenjarvis",
+            "repo": "sundew",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sphinx-testify",
+          "description": "Testified documentation means that the documentation source references test results, and these references are verified during the build process. As a result, we can keep every paragraph even every sentence of the documentation aligned with the code, as long as there is a test that \"testifies\" the described behaviour.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T18:50:59Z",
+            "owner": "BasicWolf",
+            "repo": "sphinx-testify",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-conversational",
+          "description": "A pytest plugin for testing rule-based chatbots and conversational UIs through multi-turn dialogue assertions, with no LLM dependency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T05:20:04Z",
+            "owner": "golikovichev",
+            "repo": "pytest-conversational",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Testing Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pynguin",
+          "description": "A tool that allows developers to generate unit tests automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T14:56:46Z",
+            "owner": "se2p",
+            "repo": "pynguin",
+            "stars": 1384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrossHair",
+          "description": "An analysis tool for Python that blurs the line between testing and type systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:16:31Z",
+            "owner": "pschanely",
+            "repo": "CrossHair",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Klara",
+          "description": "Static analysis tools to automatic generate test case, based on SMT (z3) solver, with a powerful ast level inference system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-28T08:41:17Z",
+            "owner": "usagitoneko97",
+            "repo": "klara",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pifpaf",
+          "description": "A suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T11:40:43Z",
+            "owner": "jd",
+            "repo": "pifpaf",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "importlab",
+          "description": "A library that automatically infers dependencies for Python files. Importlab's main use case is to work with static analysis tools that process one file at a time, ensuring that a file's dependencies are analysed before it is.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-05-03T08:56:10Z",
+            "owner": "google",
+            "repo": "importlab",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "logot",
+          "description": "Test whether your code is logging correctly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T10:24:47Z",
+            "owner": "etianen",
+            "repo": "logot",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teyit",
+          "description": "A static analyzer and a refactoring tool to rewrite your unittest assertions in the right way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-29T13:39:34Z",
+            "owner": "isidentical",
+            "repo": "teyit",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytestify",
+          "description": "Automatically convert unittests to pytest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:25:28Z",
+            "owner": "dannysepler",
+            "repo": "pytestify",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-databases",
+          "description": "Reusable database fixtures for any and all databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T17:05:05Z",
+            "owner": "litestar-org",
+            "repo": "pytest-databases",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-mock-generator",
+          "description": "A pytest fixture wrapper for .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-02T17:45:59Z",
+            "owner": "pksol",
+            "repo": "pytest-mock-generator",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ttsproof",
+          "description": "Automated failure-mode QA for text-to-speech systems. Structural audio checks, equivalence-aware WER/CER, and ASR-uncertainty quarantine so transcription noise is not reported as a synthesis defect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T07:12:37Z",
+            "owner": "Mormolykos",
+            "repo": "ttsproof",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-test-observer",
+          "description": "A pytest plugin that ships per-test results to ClickHouse for trend analysis, flakiness tracking, and CI observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:14:57Z",
+            "owner": "shakhov-dmitrii",
+            "repo": "pytest-test-observer",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "secure-log2test",
+          "description": "A CLI tool that converts Kibana JSON log exports into runnable pytest regression suites, with Pydantic-based redaction of authorization headers and other secrets at parse time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T05:23:24Z",
+            "owner": "golikovichev",
+            "repo": "secure-log2test",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greenproof",
+          "description": "Checks whether a coding agent's green pytest run was earned, not manufactured by editing the tests. Snapshots the original tests, then reruns the agent's current code against them to see if it still passes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T01:59:49Z",
+            "owner": "zxyasfas",
+            "repo": "greenproof",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quick-gate-python",
+          "description": "A deterministic CI quality gate that normalizes Ruff, Pyright, and pytest results into one fail-fast decision, attempts bounded auto-repair, and escalates with machine-readable evidence when it can't finish safely. PyPI: .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T05:39:51Z",
+            "owner": "hermes-labs-ai",
+            "repo": "quick-gate-python",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SeleniumBase",
+          "description": "is an all-in-one Python framework for automated browser testing. Tests are run with \"pytest\", and use WebDriver APIs for web-page interaction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:57:14Z",
+            "owner": "seleniumbase",
+            "repo": "SeleniumBase",
+            "stars": 12923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyAutoGUI",
+          "description": "is a cross-platform GUI automation Python module for human beings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-20T18:34:57Z",
+            "owner": "asweigart",
+            "repo": "pyautogui",
+            "stars": 12658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "helium",
+          "description": "is great for web automation. Helium makes it easier to use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:25:19Z",
+            "owner": "mherrmann",
+            "repo": "helium",
+            "stars": 8326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splinter",
+          "description": "Open source tool for testing web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-16T15:08:24Z",
+            "owner": "cobrateam",
+            "repo": "splinter",
+            "stars": 2751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sixpack",
+          "description": "A language-agnostic A/B Testing framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-21T18:43:32Z",
+            "owner": "sixpack",
+            "repo": "sixpack",
+            "stars": 1754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lost Pixel",
+          "description": "is an open source visual regression testing tool. Run visual regression tests on your Storybook and Ladle stories and on your application pages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-04-22T17:12:49Z",
+            "owner": "lost-pixel",
+            "repo": "lost-pixel",
+            "stars": 1684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flybirds",
+          "description": "is a front-end UI automation test framework based on BDD mode, providing a series of out-of-the-box tools and complete documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-27T07:34:36Z",
+            "owner": "ctripcorp",
+            "repo": "flybirds",
+            "stars": 916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "selene",
+          "description": "User-oriented Web UI browser tests in Python (Selenide port).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T20:45:44Z",
+            "owner": "yashaka",
+            "repo": "selene",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Golem",
+          "description": "is a test framework and a complete tool for browser automation. Tests can be written with code in Python, codeless using the web IDE, or both.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-02-07T13:15:15Z",
+            "owner": "golemhq",
+            "repo": "golem",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-ui-automatic",
+          "description": "Playwright Python tool practice pytest pytest-bdd screen-play page-object allure cucumber-report.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-16T10:16:30Z",
+            "owner": "moyu6027",
+            "repo": "pytest-ui-automatic",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pomcorn",
+          "description": "is an open source Python package that contains base classes to create systems based on Selenium framework and Page Object Model pattern",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T08:51:38Z",
+            "owner": "saritasa-nest",
+            "repo": "pomcorn",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HMNextAuto",
+          "description": "Python-based UI automation framework for HarmonyOS NEXT. API compatible with uiautomator2, supports XPath, image recognition, performance monitoring and notification management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-06T06:31:54Z",
+            "owner": "ziguiway",
+            "repo": "hmnextauto",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LuluTest",
+          "description": "is an open source browser automation framework using Python and Selenium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-18T01:28:23Z",
+            "owner": "erik-whiting",
+            "repo": "LuluTest",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "squape",
+          "description": "is a package that extends Squish API providing convenience tools for everyday automated test cases development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-05T10:10:54Z",
+            "owner": "CyberAlpaca",
+            "repo": "squish-api-python-extension",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aria-testing",
+          "description": "Accessibility-focused DOM testing library for tdom, built with modern Python 3.14+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-11T23:54:11Z",
+            "owner": "t-strings",
+            "repo": "aria-testing",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "UI Testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Python",
+          "description": "A curated list of awesome Python frameworks, libraries, software and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:11:04Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 313783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python test automation",
+          "description": "A comprehensive curated list of python test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-28T16:02:39Z",
+            "owner": "atinfo",
+            "repo": "awesome-test-automation",
+            "stars": 7129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome PyTest",
+          "description": "Focused on pytest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-24T17:41:32Z",
+            "owner": "augustogoulart",
+            "repo": "awesome-pytest",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Mutation testing",
+          "description": "Mutation testing resources: how to make better code by introducing bugs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-06T10:39:32Z",
+            "owner": "theofidry",
+            "repo": "awesome-mutation-testing",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commit-check",
+          "description": "Check commit message formatting, branch naming, commit author, email, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:12:35Z",
+            "owner": "commit-check",
+            "repo": "commit-check",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Behave",
+          "description": "A curated list of Behave resources, tools, and libraries for Python BDD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T15:59:25Z",
+            "owner": "MathiasPaulenko",
+            "repo": "awesome-behave",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Related"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:58:47.694Z",
+    "original_repository": "cleder/awesome-python-testing",
+    "original_repository_sha": "f5c893a174c55b235c7ce248ecd8a821716394b9",
+    "enhanced_repository": "enhansome/enhansome-python-testing",
+    "enhanced_repository_description": null,
+    "title": "Awesome Python Testing with stars"
+  }
+}
