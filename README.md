@@ -85,7 +85,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Load Testing
 
-* [Locust](https://github.com/locustio/locust) ⭐ 28,093 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - Scalable user load testing tool written in Python.
+* [Locust](https://github.com/locustio/locust) ⭐ 28,094 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - Scalable user load testing tool written in Python.
 * [Grasshopper](https://github.com/alteryx/locust-grasshopper) ⭐ 195 | 🐛 1 | 🌐 Python | 📅 2026-08-05 - A lightweight framework for performing load tests against an environment, primarily against an API. Grasshopper glues Locust, Pytest, some plugins (namely Locust InfluxDBListener ) and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
 * [pynonymizer](https://github.com/jerometwell/pynonymizer) ⭐ 116 | 🐛 6 | 🌐 Python | 📅 2026-05-07 - is a universal tool for translating sensitive production database dumps into anonymized copies.
 * [Grizzly](https://github.com/biometria-se/grizzly) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2026-08-18 - is a framework to be able to easily define load scenarios, and is mainly built on-top of Locust and Behave.
@@ -102,7 +102,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Mock and Stub
 
-* [moto](https://github.com/spulec/moto) ⭐ 8,624 | 🐛 60 | 🌐 Python | 📅 2026-08-22 - allows you to easily mock out tests based on AWS infrastructure.
+* [moto](https://github.com/spulec/moto) ⭐ 8,625 | 🐛 61 | 🌐 Python | 📅 2026-08-22 - allows you to easily mock out tests based on AWS infrastructure.
 * [freezegun](https://github.com/spulec/freezegun) ⭐ 4,525 | 🐛 166 | 🌐 Python | 📅 2025-08-19 - Travel through time by mocking the datetime module.
 * [responses](https://github.com/getsentry/responses) ⭐ 4,344 | 🐛 42 | 🌐 Python | 📅 2026-07-24 - A utility library for mocking out the requests Python library.
 * [httpretty](https://github.com/gabrielfalcao/HTTPretty) ⭐ 2,159 | 🐛 130 | 🌐 Python | 📅 2024-06-09 - HTTP request mock tool for Python.
@@ -135,7 +135,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Object Factories
 
-* [factory\_boy](https://github.com/FactoryBoy/factory_boy) ⭐ 3,805 | 🐛 209 | 🌐 Python | 📅 2026-01-01 - A test fixtures replacement for Python.
+* [factory\_boy](https://github.com/FactoryBoy/factory_boy) ⭐ 3,805 | 🐛 210 | 🌐 Python | 📅 2026-01-01 - A test fixtures replacement for Python.
 * [polyfactory](https://github.com/litestar-org/polyfactory) ⭐ 1,501 | 🐛 71 | 🌐 Python | 📅 2026-08-22 - A simple and powerful mock data generation library, based around type hints and supporting dataclasses, typed-dicts, pydantic models, msgspec structs and more.
 * [Model Bakery](https://github.com/model-bakers/model_bakery) ⭐ 1,002 | 🐛 12 | 🌐 Python | 📅 2026-08-24 - offers you a smart way to create fixtures for testing in Django.
 * [mixer](https://github.com/klen/mixer) ⭐ 954 | 🐛 49 | 🌐 Python | 📅 2024-03-08 - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
@@ -148,7 +148,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Property Based Testing
 
-* [Hypothesis](https://github.com/HypothesisWorks/hypothesis) ⭐ 8,910 | 🐛 46 | 🌐 Python | 📅 2026-08-23 - is an advanced Quickcheck style property based testing library.
+* [Hypothesis](https://github.com/HypothesisWorks/hypothesis) ⭐ 8,911 | 🐛 46 | 🌐 Python | 📅 2026-08-23 - is an advanced Quickcheck style property based testing library.
 * [Atheris](https://github.com/google/atheris) ⭐ 1,664 | 🐛 40 | 🌐 Python | 📅 2026-06-17 - is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython.
 * [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto/) ⭐ 355 | 🐛 6 | 🌐 Python | 📅 2023-09-23 - An extensions for Hypothesis that provides fully automatic testing for type hinted functions.
 * [hypofuzz](https://github.com/Zac-HD/hypofuzz) ⭐ 123 | 🐛 30 | 🌐 Python | 📅 2026-05-15 - Adaptive fuzzing of Hypothesis tests.
@@ -175,7 +175,7 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Retrying Tests
 
-* [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) ⭐ 471 | 🐛 40 | 🌐 Python | 📅 2026-08-21 - A pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures.
+* [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) ⭐ 471 | 🐛 42 | 🌐 Python | 📅 2026-08-21 - A pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures.
 * [pytest-check](https://github.com/okken/pytest-check) ⭐ 426 | 🐛 2 | 🌐 Python | 📅 2026-08-01 - A pytest plugin that allows multiple failed assertions per test function, so you can see the whole picture of what's going wrong.
 * [pytest-retry](https://github.com/str0zzapreti/pytest-retry) ⭐ 41 | 🐛 11 | 🌐 Python | 📅 2025-01-19 - A simple plugin for retrying flaky tests in CI environments.
 * [pytest-leak-finder](https://github.com/mgaitan/pytest-leak-finder) ⭐ 40 | 🐛 4 | 🌐 Python | 📅 2025-12-19 - You have a test that passes when executed alone but fails when running its suite. What's happening? My two cents that some previous test keeps the things dirty. But which one/s, maybe the previous are a lot, right?
@@ -198,15 +198,15 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Static Checks
 
-* [ruff](https://github.com/charliermarsh/ruff) ⭐ 49,299 | 🐛 2,141 | 🌐 Rust | 📅 2026-08-24 - An extremely fast Python linter, written in Rust.
-* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,236 | 🐛 260 | 🌐 Python | 📅 2026-08-24 - is a tool designed to find common security issues in Python code.
-* [Pylint](https://github.com/PyCQA/pylint) ⭐ 5,713 | 🐛 1,088 | 🌐 Python | 📅 2026-08-24 - A Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
-* [typos](https://github.com/crate-ci/typos) ⭐ 4,107 | 🐛 152 | 🌐 Rust | 📅 2026-08-20 - A Source code spell checker that finds and corrects spelling mistakes in source code.
+* [ruff](https://github.com/charliermarsh/ruff) ⭐ 49,302 | 🐛 2,143 | 🌐 Rust | 📅 2026-08-24 - An extremely fast Python linter, written in Rust.
+* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,237 | 🐛 260 | 🌐 Python | 📅 2026-08-24 - is a tool designed to find common security issues in Python code.
+* [Pylint](https://github.com/PyCQA/pylint) ⭐ 5,714 | 🐛 1,088 | 🌐 Python | 📅 2026-08-24 - A Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+* [typos](https://github.com/crate-ci/typos) ⭐ 4,109 | 🐛 152 | 🌐 Rust | 📅 2026-08-20 - A Source code spell checker that finds and corrects spelling mistakes in source code.
 * [Refurb](https://github.com/dosisod/refurb) ⭐ 2,532 | 🐛 33 | 🌐 Python | 📅 2026-04-03 - A tool for refurbishing and modernizing Python codebases.
-* [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) ⭐ 1,978 | 🐛 7 | 📅 2026-06-19 - Collection of awesome Python types, stubs, plugins, and tools to work with them.
+* [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) ⭐ 1,979 | 🐛 7 | 📅 2026-06-19 - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 * [pyflakes](https://github.com/PyCQA/pyflakes) ⭐ 1,455 | 🐛 60 | 🌐 Python | 📅 2025-06-20 - A simple program which checks Python source files for errors.
 * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) ⭐ 1,278 | 🐛 1 | 📅 2026-07-21 - A curated list of awesome flake8 extensions.
-* [complexipy](https://github.com/rohaquinlop/complexipy) ⭐ 797 | 🐛 11 | 🌐 Rust | 📅 2026-08-24 - An extremely fast Python library to calculate the cognitive complexity of Python files, written in Rust.
+* [complexipy](https://github.com/rohaquinlop/complexipy) ⭐ 798 | 🐛 11 | 🌐 Rust | 📅 2026-08-24 - An extremely fast Python library to calculate the cognitive complexity of Python files, written in Rust.
 * [pyanalyze](https://github.com/quora/pyanalyze) ⭐ 386 | 🐛 61 | 🌐 Python | 📅 2026-01-27 - A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and some categories of type mismatches.
 * [slotscheck](https://github.com/ariebovenberg/slotscheck) ⭐ 127 | 🐛 12 | 🌐 Python | 📅 2026-08-24 - Find mistakes in your `__slots__` definitions.
 * [Typecheckers](https://github.com/ethanhs/python-typecheckers) ⭐ 74 | 🐛 1 | 📅 2026-03-19 - A list of Python type checkers.
@@ -220,10 +220,10 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Testing Frameworks
 
-* [Robot Framework](https://github.com/robotframework/robotframework) ⭐ 11,841 | 🐛 298 | 🌐 Python | 📅 2026-08-24 - A generic test automation framework.
+* [Robot Framework](https://github.com/robotframework/robotframework) ⭐ 11,842 | 🐛 298 | 🌐 Python | 📅 2026-08-24 - A generic test automation framework.
 * [pytest-django](https://github.com/pytest-dev/pytest-django) ⭐ 1,545 | 🐛 187 | 🌐 Python | 📅 2026-08-10 - A pytest plugin for Django applications.
 * [Ward](https://github.com/darrenburns/ward) ⚠️ Archived - is a modern test framework for Python with a focus on productivity and readability.
-* [nose2](https://github.com/nose-devs/nose2) ⭐ 826 | 🐛 45 | 🌐 Python | 📅 2026-08-17 - The successor to `nose`, based on `unittest2`.
+* [nose2](https://github.com/nose-devs/nose2) ⭐ 826 | 🐛 45 | 🌐 Python | 📅 2026-08-24 - The successor to `nose`, based on `unittest2`.
 * [maelstrom](https://github.com/maelstrom-software/maelstrom) ⭐ 733 | 🐛 190 | 🌐 Rust | 📅 2025-04-23 - Maelstrom is a fast Rust and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
 * [awesome-pytest](https://github.com/augustogoulart/awesome-pytest) ⭐ 573 | 🐛 3 | 📅 2026-06-24 - A curated list of awesome pytest resources.
 * [promptimize](https://github.com/preset-io/promptimize) ⭐ 498 | 🐛 17 | 🌐 Python | 📅 2026-05-25 - a prompt engineering evaluation and testing toolkit. It accelerates and provides structure around prompt engineering at scale with confidence, bringing some of the ideas behind test-driven development (TDD) to engineering prompts.
@@ -254,7 +254,7 @@ Collection of awesome Python resources for testing and generating test data.
 * [pytestify](https://github.com/dannysepler/pytestify) ⭐ 59 | 🐛 10 | 🌐 Python | 📅 2026-08-17 - Automatically convert unittests to pytest.
 * [pytest-databases](https://github.com/litestar-org/pytest-databases) ⭐ 58 | 🐛 16 | 🌐 Python | 📅 2026-07-22 - Reusable database fixtures for any and all databases.
 * [pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2024-06-02 - A pytest fixture wrapper for `mock_autogen`.
-* [ttsproof](https://github.com/Mormolykos/ttsproof) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-08-05 - Automated failure-mode QA for text-to-speech systems. Structural audio checks, equivalence-aware WER/CER, and ASR-uncertainty quarantine so transcription noise is not reported as a synthesis defect.
+* [ttsproof](https://github.com/Mormolykos/ttsproof) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Automated failure-mode QA for text-to-speech systems. Structural audio checks, equivalence-aware WER/CER, and ASR-uncertainty quarantine so transcription noise is not reported as a synthesis defect.
 * [pytest-test-observer](https://github.com/shakhov-dmitrii/pytest-test-observer) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-08-12 - A pytest plugin that ships per-test results to ClickHouse for trend analysis, flakiness tracking, and CI observability.
 * [secure-log2test](https://github.com/golikovichev/secure-log2test) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - A CLI tool that converts Kibana JSON log exports into runnable pytest regression suites, with Pydantic-based redaction of authorization headers and other secrets at parse time.
 * [greenproof](https://github.com/zxyasfas/greenproof) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Checks whether a coding agent's green pytest run was earned, not manufactured by editing the tests. Snapshots the original tests, then reruns the agent's current code against them to see if it still passes.
@@ -318,8 +318,8 @@ Collection of awesome Python resources for testing and generating test data.
 
 ### Related
 
-* [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md#testing) ⭐ 315,801 | 🐛 17 | 🌐 Python | 📅 2026-08-24 - A curated list of awesome Python frameworks, libraries, software and resources.
-* [Python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) ⭐ 7,144 | 🐛 128 | 📅 2025-11-28 - A comprehensive curated list of python test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on python.
+* [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md#testing) ⭐ 315,831 | 🐛 17 | 🌐 Python | 📅 2026-08-24 - A curated list of awesome Python frameworks, libraries, software and resources.
+* [Python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) ⭐ 7,145 | 🐛 128 | 📅 2025-11-28 - A comprehensive curated list of python test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on python.
 * [Awesome PyTest](https://github.com/augustogoulart/awesome-pytest) ⭐ 573 | 🐛 3 | 📅 2026-06-24 - Focused on pytest.
 * [Awesome Mutation testing](https://github.com/theofidry/awesome-mutation-testing) ⭐ 470 | 🐛 2 | 📅 2026-08-06 - Mutation testing resources: how to make better code by introducing bugs
 * [commit-check](https://github.com/commit-check/commit-check) ⭐ 71 | 🐛 5 | 🌐 Python | 📅 2026-08-24 - Check commit message formatting, branch naming, commit author, email, and more.
