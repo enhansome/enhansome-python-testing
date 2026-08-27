@@ -204,7 +204,7 @@
             "archived": false,
             "id": 138421996,
             "language": "Python",
-            "last_commit": "2026-08-25T13:01:37Z",
+            "last_commit": "2026-08-26T23:10:32Z",
             "owner": "coveragepy",
             "repo": "coveragepy",
             "stars": 3407
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-25T19:12:43Z",
             "owner": "pact-foundation",
             "repo": "pact-python",
-            "stars": 682
+            "stars": 681
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-26T17:46:29Z",
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28104
+            "stars": 28107
           }
         },
         {
@@ -681,10 +681,10 @@
             "archived": false,
             "id": 8277372,
             "language": "Python",
-            "last_commit": "2026-08-25T17:08:30Z",
+            "last_commit": "2026-08-27T07:42:26Z",
             "owner": "getmoto",
             "repo": "moto",
-            "stars": 8627
+            "stars": 8628
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2026-08-17T18:29:43Z",
             "owner": "boxed",
             "repo": "mutmut",
-            "stars": 1406
+            "stars": 1407
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2026-01-01T19:04:12Z",
             "owner": "FactoryBoy",
             "repo": "factory_boy",
-            "stars": 3804
+            "stars": 3805
           }
         },
         {
@@ -1188,7 +1188,7 @@
             "last_commit": "2026-08-25T07:13:15Z",
             "owner": "HypothesisWorks",
             "repo": "hypothesis",
-            "stars": 8913
+            "stars": 8914
           }
         },
         {
@@ -1203,7 +1203,7 @@
             "last_commit": "2026-06-17T17:35:18Z",
             "owner": "google",
             "repo": "atheris",
-            "stars": 1665
+            "stars": 1666
           }
         },
         {
@@ -1473,7 +1473,7 @@
             "archived": false,
             "id": 5362370,
             "language": "Python",
-            "last_commit": "2026-08-21T06:49:58Z",
+            "last_commit": "2026-08-27T08:18:04Z",
             "owner": "pytest-dev",
             "repo": "pytest-rerunfailures",
             "stars": 472
@@ -1557,7 +1557,7 @@
             "last_commit": "2026-08-25T13:33:42Z",
             "owner": "kevin1024",
             "repo": "vcrpy",
-            "stars": 2981
+            "stars": 2984
           }
         },
         {
@@ -1569,10 +1569,10 @@
             "archived": false,
             "id": 216412299,
             "language": "Python",
-            "last_commit": "2026-08-24T00:41:56Z",
+            "last_commit": "2026-08-26T22:43:41Z",
             "owner": "syrupy-project",
             "repo": "syrupy",
-            "stars": 874
+            "stars": 875
           }
         },
         {
@@ -1716,10 +1716,10 @@
             "archived": false,
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-26T21:46:41Z",
+            "last_commit": "2026-08-27T11:55:51Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49342
+            "stars": 49351
           }
         },
         {
@@ -1734,7 +1734,7 @@
             "last_commit": "2026-08-24T11:13:47Z",
             "owner": "PyCQA",
             "repo": "bandit",
-            "stars": 8241
+            "stars": 8242
           }
         },
         {
@@ -1746,10 +1746,10 @@
             "archived": false,
             "id": 47671127,
             "language": "Python",
-            "last_commit": "2026-08-26T21:29:46Z",
+            "last_commit": "2026-08-27T10:10:27Z",
             "owner": "pylint-dev",
             "repo": "pylint",
-            "stars": 5717
+            "stars": 5718
           }
         },
         {
@@ -1794,7 +1794,7 @@
             "last_commit": "2026-06-19T06:03:10Z",
             "owner": "typeddjango",
             "repo": "awesome-python-typing",
-            "stars": 1980
+            "stars": 1979
           }
         },
         {
@@ -1809,7 +1809,7 @@
             "last_commit": "2025-06-20T18:45:32Z",
             "owner": "PyCQA",
             "repo": "pyflakes",
-            "stars": 1455
+            "stars": 1456
           }
         },
         {
@@ -1839,7 +1839,7 @@
             "last_commit": "2026-08-26T16:27:29Z",
             "owner": "rohaquinlop",
             "repo": "complexipy",
-            "stars": 809
+            "stars": 815
           }
         },
         {
@@ -1941,7 +1941,7 @@
             "last_commit": "2026-08-26T14:47:37Z",
             "owner": "robotframework",
             "repo": "robotframework",
-            "stars": 11844
+            "stars": 11847
           }
         },
         {
@@ -2214,10 +2214,10 @@
             "archived": false,
             "id": 282944472,
             "language": "Python",
-            "last_commit": "2026-08-25T06:47:45Z",
+            "last_commit": "2026-08-27T09:59:55Z",
             "owner": "se2p",
             "repo": "pynguin",
-            "stars": 1383
+            "stars": 1384
           }
         },
         {
@@ -2448,7 +2448,7 @@
             "last_commit": "2026-08-26T00:54:41Z",
             "owner": "seleniumbase",
             "repo": "SeleniumBase",
-            "stars": 12954
+            "stars": 12958
           }
         },
         {
@@ -2478,7 +2478,7 @@
             "last_commit": "2026-08-10T07:25:19Z",
             "owner": "mherrmann",
             "repo": "helium",
-            "stars": 8323
+            "stars": 8322
           }
         },
         {
@@ -2553,7 +2553,7 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 875
+            "stars": 847
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "archived": false,
             "id": 696827488,
             "language": "Python",
-            "last_commit": "2026-08-26T05:59:16Z",
+            "last_commit": "2026-08-27T10:09:41Z",
             "owner": "saritasa-nest",
             "repo": "pomcorn",
             "stars": 17
@@ -2696,7 +2696,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316247
+                "stars": 316381
               }
             },
             {
@@ -2711,7 +2711,7 @@
                 "last_commit": "2025-11-28T16:02:39Z",
                 "owner": "atinfo",
                 "repo": "awesome-test-automation",
-                "stars": 7146
+                "stars": 7147
               }
             },
             {
@@ -2753,7 +2753,7 @@
                 "archived": false,
                 "id": 485387677,
                 "language": "Python",
-                "last_commit": "2026-08-24T03:32:59Z",
+                "last_commit": "2026-08-26T22:08:11Z",
                 "owner": "commit-check",
                 "repo": "commit-check",
                 "stars": 71
@@ -2771,7 +2771,7 @@
                 "last_commit": "2026-08-14T01:21:27Z",
                 "owner": "MathiasPaulenko",
                 "repo": "awesome-behave",
-                "stars": 3
+                "stars": 4
               }
             }
           ],
@@ -2784,9 +2784,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:47:31.564Z",
-    "original_repository": "cleder/awesome-python-testing",
-    "original_repository_id": 347465284,
+    "last_updated": "2026-08-27T12:00:48.408Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 347465284,
+      "language": null,
+      "last_commit": "2026-08-26T17:10:32Z",
+      "owner": "cleder",
+      "repo": "awesome-python-testing",
+      "stars": 307
+    },
     "original_repository_sha": "a9c0252a10af1de9aeccf65ffe7002c05458440d",
     "enhanced_repository": "enhansome/enhansome-python-testing",
     "enhanced_repository_description": null,
