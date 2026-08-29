@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Doing dirty (but extremely useful) things with equals.",
+            "homepage": "https://dirty-equals.helpmanual.io",
             "id": 452345017,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T11:48:55Z",
+            "open_issues": 27,
             "owner": "samuelcolvin",
             "repo": "dirty-equals",
-            "stars": 1004
+            "stars": 1004,
+            "topics": [
+              "pytest",
+              "python",
+              "testing-tools",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hamcrest matchers for Python",
+            "homepage": "http://hamcrest.org/",
             "id": 1194778,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-12T14:23:26Z",
+            "open_issues": 28,
             "owner": "hamcrest",
             "repo": "PyHamcrest",
-            "stars": 804
+            "stars": 804,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -42,12 +57,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "sophisticated automated test library and runner",
+            "homepage": "https://sure.readthedocs.io",
             "id": 705692,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-01T23:51:09Z",
+            "open_issues": 25,
             "owner": "gabrielfalcao",
             "repo": "sure",
-            "stars": 700
+            "stars": 700,
+            "topics": [
+              "bdd",
+              "behavior-driven-development",
+              "python3",
+              "software-craftsmanship",
+              "tdd",
+              "test",
+              "test-automation",
+              "test-driven-development"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -58,12 +87,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Matcher library for Python",
+            "homepage": null,
             "id": 56918606,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-09-16T20:48:21Z",
+            "open_issues": 6,
             "owner": "mwilliamson",
             "repo": "python-precisely",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -74,12 +108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expects is an expressive and extensible TDD/BDD assertion library for Python.",
+            "homepage": "https://expects.readthedocs.io",
             "id": 10266355,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-17T23:33:31Z",
+            "open_issues": 19,
             "owner": "jaimegildesagredo",
             "repo": "expects",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -90,12 +129,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A module offering Python functions for simple and readable assertion-like checks to be used inside code, but also in testing.",
+            "homepage": null,
             "id": 299679906,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-29T08:45:54Z",
+            "open_issues": 22,
             "owner": "nyggus",
             "repo": "easycheck",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "assertion",
+              "python3",
+              "testing",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -106,12 +155,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✅ \"Because tests should be easy to read!\" An expectation pattern implementation for Python. Simple, intuitive, readable, and approachable, with ability to plug in to any testing framework that relies on assertions.",
+            "homepage": null,
             "id": 462910702,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-01T13:15:56Z",
+            "open_issues": 14,
             "owner": "bdsoha",
             "repo": "expycted",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "assertion-framework",
+              "expect",
+              "expectation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -122,12 +181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python package for json validation",
+            "homepage": null,
             "id": 286930150,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-08T07:28:48Z",
+            "open_issues": 1,
             "owner": "pkyosx",
             "repo": "believe",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -138,12 +202,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cache assertion data to simplify regression testing of complex serializable data",
+            "homepage": "https://pytest_cache_assert.kyleking.me/",
             "id": 422556743,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-30T23:23:43Z",
+            "open_issues": 0,
             "owner": "KyleKing",
             "repo": "pytest_cache_assert",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "calcipy",
+              "pytest-plugin"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -160,12 +232,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BDD, Python style.",
+            "homepage": "https://behave.readthedocs.io/en/latest/",
             "id": 2642784,
             "language": "Python",
-            "last_commit": "2026-08-28T22:33:06Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:00:08Z",
+            "open_issues": 77,
             "owner": "behave",
             "repo": "behave",
-            "stars": 3524
+            "stars": 3524,
+            "topics": [
+              "bdd",
+              "bdd-framework",
+              "behave",
+              "behavior-driven-development",
+              "cucumber-like",
+              "gherkin",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -176,12 +262,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Behavior-driven-development tool for python, inspired by Cucumber for Ruby ⛺",
+            "homepage": "http://lettuce.it",
             "id": 577245,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-29T05:50:58Z",
+            "open_issues": 101,
             "owner": "gabrielfalcao",
             "repo": "lettuce",
-            "stars": 1276
+            "stars": 1276,
+            "topics": [
+              "bdd",
+              "behavior-driven-development",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -192,12 +287,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The pytest-pyspec plugin transforms pytest output into a beautiful, readable format similar to RSpec. It provides semantic meaning to your tests by organizing them into descriptive hierarchies, using the prefixes Describe/Test, With/Without/When, and test_/it_, while allowing docstrings and decorators to override the descriptions.",
+            "homepage": null,
             "id": 605758987,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-18T02:56:11Z",
+            "open_issues": 0,
             "owner": "felipecrp",
             "repo": "pytest-pyspec",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "pytest",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -214,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code coverage tool for Python",
+            "homepage": "https://coverage.readthedocs.io",
             "id": 138421996,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:07:22Z",
+            "open_issues": 307,
             "owner": "coveragepy",
             "repo": "coveragepy",
-            "stars": 3406
+            "stars": 3406,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -230,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically find diff lines that need test coverage.",
+            "homepage": null,
             "id": 28937065,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T18:01:57Z",
+            "open_issues": 61,
             "owner": "Bachmann1234",
             "repo": "diff_cover",
-            "stars": 841
+            "stars": 841,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -246,12 +360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Near Zero-Overhead Python Code Coverage",
+            "homepage": null,
             "id": 424370183,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T18:27:07Z",
+            "open_issues": 5,
             "owner": "plasma-umass",
             "repo": "slipcover",
-            "stars": 585
+            "stars": 585,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -262,12 +381,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conditional coverage based on any rules you define!",
+            "homepage": "https://sobolevn.me/2020/02/conditional-coverage",
             "id": 238450532,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-03T19:48:27Z",
+            "open_issues": 15,
             "owner": "wemake-services",
             "repo": "coverage-conditional-plugin",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "coverage",
+              "coverage-plugin",
+              "coverage-report",
+              "coverage-testing",
+              "coveralls",
+              "pragma-rules",
+              "python",
+              "python3",
+              "wemake"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -284,12 +418,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.",
+            "homepage": "https://deal.readthedocs.io/",
             "id": 118873232,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-30T10:55:47Z",
+            "open_issues": 8,
             "owner": "life4",
             "repo": "deal",
-            "stars": 904
+            "stars": 904,
+            "topics": [
+              "contracts",
+              "contracts-programming",
+              "dbc",
+              "deal",
+              "decorators",
+              "design-by-contract",
+              "flake8",
+              "functional-programming",
+              "hacktoberfest",
+              "interface",
+              "invariant",
+              "linter",
+              "mypy",
+              "property-based-testing",
+              "python",
+              "pythonic",
+              "refinement-types",
+              "testing",
+              "typing",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -300,12 +460,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.",
+            "homepage": "https://pact-foundation.github.io/pact-python/",
             "id": 85806183,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:06:46Z",
+            "open_issues": 21,
             "owner": "pact-foundation",
             "repo": "pact-python",
-            "stars": 682
+            "stars": 682,
+            "topics": [
+              "apis",
+              "contract-testing",
+              "hacktoberfest",
+              "pact",
+              "smartbear-supported"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -316,12 +487,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design-by-contract in Python3 with informative violation messages and inheritance",
+            "homepage": null,
             "id": 142971238,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-29T13:10:53Z",
+            "open_issues": 2,
             "owner": "Parquery",
             "repo": "icontract",
-            "stars": 413
+            "stars": 413,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -338,12 +514,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Faker is a Python package that generates fake data for you.",
+            "homepage": "https://faker.readthedocs.io",
             "id": 6662075,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T16:43:48Z",
+            "open_issues": 33,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19382
+            "stars": 19382,
+            "topics": [
+              "dataset",
+              "fake",
+              "fake-data",
+              "faker",
+              "faker-generator",
+              "python",
+              "test-data",
+              "test-data-generator",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -354,12 +545,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mimesis is a Python library for generating fake but realistic data in multiple languages and locales.",
+            "homepage": "https://mimesis.name",
             "id": 67834502,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T20:25:19Z",
+            "open_issues": 14,
             "owner": "lk-geimfari",
             "repo": "mimesis",
-            "stars": 4839
+            "stars": 4839,
+            "topics": [
+              "data",
+              "dataframe",
+              "datascience",
+              "dummy",
+              "factory",
+              "factory-boy",
+              "fake",
+              "fixtures",
+              "generator",
+              "json-generator",
+              "mimesis",
+              "mock",
+              "pandas",
+              "polars",
+              "python",
+              "relational",
+              "schema",
+              "syntetic",
+              "synthetic-data",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -370,12 +587,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "create custom test databases that are populated with fake data",
+            "homepage": null,
             "id": 16960472,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2019-11-25T09:19:01Z",
+            "open_issues": 7,
             "owner": "emirozer",
             "repo": "fake2db",
-            "stars": 2347
+            "stars": 2347,
+            "topics": [
+              "data",
+              "database",
+              "fake-content",
+              "faker",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -386,12 +614,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library designed to minimize the setup/arrange phase of your unit tests",
+            "homepage": "http://christianhelle.com/autofaker/",
             "id": 416217548,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T12:38:02Z",
+            "open_issues": 7,
             "owner": "christianhelle",
             "repo": "autofaker",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "python",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -402,12 +638,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical. Literally genuine fake means something that is real but not real at the same time. Take it like this, it's more of a perfect replica of the original.",
+            "homepage": null,
             "id": 232976480,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-20T10:33:08Z",
+            "open_issues": 1,
             "owner": "xeroxzen",
             "repo": "genuine-fake",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "100daysofcode",
+              "hacking",
+              "python3",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -424,12 +670,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin to list unused fixtures in your tests",
+            "homepage": null,
             "id": 115877091,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-15T20:15:36Z",
+            "open_issues": 16,
             "owner": "jllorencetti",
             "repo": "pytest-deadfixtures",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "fixtures",
+              "pytest",
+              "pytest-plugin",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -440,12 +696,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a pytest plugin, that enables you to test your code that relies on a running MySQL Database. It allows you to specify fixtures for MySQL process and client.",
+            "homepage": "https://pypi.python.org/pypi/pytest-mysql/",
             "id": 72486761,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-24T22:56:07Z",
+            "open_issues": 20,
             "owner": "dbfixtures",
             "repo": "pytest-mysql",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "mysql",
+              "pytest",
+              "pytest-plugin",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -456,12 +722,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a pytest plugin, that enables you to test your code that relies on a running RabbitMQ Queues. It allows you to specify additional fixtures for RabbitMQ process and client.",
+            "homepage": "https://pypi.python.org/pypi/pytest-rabbitmq/",
             "id": 73863322,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-24T22:44:33Z",
+            "open_issues": 20,
             "owner": "dbfixtures",
             "repo": "pytest-rabbitmq",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "pytest",
+              "pytest-plugin",
+              "python",
+              "rabbitmq"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -472,12 +748,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pro test fixture provider for Python",
+            "homepage": "https://pypi.org/project/protestr/",
             "id": 841518151,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-08T10:19:31Z",
+            "open_issues": 0,
             "owner": "Grimmscorpp",
             "repo": "protestr",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "fixture",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -494,12 +778,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A generic mcp server fuzzer",
+            "homepage": null,
             "id": 1000958899,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-08T09:41:14Z",
+            "open_issues": 1,
             "owner": "Agent-Hellboy",
             "repo": "mcp-server-fuzzer",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "agentic-ai",
+              "agentic-workflow",
+              "ai",
+              "ai-agents",
+              "ai-testing-tool",
+              "generative-testing-mcp",
+              "hacktoberfest",
+              "llm-agents",
+              "mcp",
+              "mcp-client",
+              "mcp-fuzzer",
+              "mcp-security",
+              "mcp-servers",
+              "mcp-specification-validation",
+              "mcp-tools",
+              "mutation-testing-mcp",
+              "property-based-testing-mcp",
+              "protocol-testing",
+              "security-research",
+              "testing-tool"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -510,12 +820,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source simulation harness for testing AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.",
+            "homepage": "https://tenro.ai",
             "id": 1136863890,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-09T05:57:54Z",
+            "open_issues": 1,
             "owner": "tenro-ai",
             "repo": "tenro-python",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ai-agents",
+              "ai-testing",
+              "llm",
+              "llm-evaluation",
+              "prompt-testing",
+              "pytest",
+              "pytest-plugin",
+              "python",
+              "simulation",
+              "test-automation"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -526,12 +852,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Do your agent pipeline's own checks catch planted faults? Measured on LangGraph, CrewAI and AutoGen: median 16.7%. One prompt-level change takes it to 55.0%. Pre-registered spec, Apache-2.0 harness, every raw trace published.",
+            "homepage": "https://doi.org/10.5281/zenodo.21539796",
             "id": 1308965403,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-25T21:53:09Z",
+            "open_issues": 2,
             "owner": "Jott2121",
             "repo": "sabot",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agent-evaluation",
+              "agentops",
+              "ai-agents",
+              "ai-safety",
+              "autogen",
+              "benchmark",
+              "chaos-engineering",
+              "crewai",
+              "fault-injection",
+              "guardrails",
+              "langgraph",
+              "llm",
+              "llm-evaluation",
+              "llmops",
+              "multi-agent-systems",
+              "mutation-testing",
+              "observability",
+              "reliability",
+              "reproducible-research",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -548,12 +900,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write scalable load tests in plain Python 🚗💨",
+            "homepage": "https://locust.cloud",
             "id": 1377867,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T17:46:29Z",
+            "open_issues": 3,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28112
+            "stars": 28112,
+            "topics": [
+              "benchmarking",
+              "http",
+              "load-generator",
+              "load-test",
+              "load-testing",
+              "load-tests",
+              "locust",
+              "performance",
+              "performance-testing",
+              "python",
+              "socketio"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -564,12 +933,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a load testing tool extended from locust",
+            "homepage": null,
             "id": 614084334,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T12:08:02Z",
+            "open_issues": 1,
             "owner": "alteryx",
             "repo": "locust-grasshopper",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "load-testing",
+              "performance",
+              "performance-metrics",
+              "performance-testing",
+              "pytest",
+              "pytest-plugin",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -580,12 +962,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A universal tool for translating sensitive production database dumps into anonymized copies.",
+            "homepage": "https://pypi.org/project/pynonymizer/",
             "id": 233147265,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-07T11:03:27Z",
+            "open_issues": 6,
             "owner": "rwnx",
             "repo": "pynonymizer",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "anonymization",
+              "anonymized-data",
+              "anonymized-database",
+              "database",
+              "dbanonymizer",
+              "gdpr",
+              "hacktoberfest",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -596,12 +992,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create load test scenarios with locust using gherkin",
+            "homepage": "https://biometria-se.github.io/grizzly",
             "id": 409477688,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T10:40:00Z",
+            "open_issues": 3,
             "owner": "Biometria-se",
             "repo": "grizzly",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "gherkin",
+              "loadtest",
+              "locust",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -612,12 +1018,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to generate dynamic workload model. Useful for testing autoscaling in cloud or mimicking different load profile for different scenario.",
+            "homepage": null,
             "id": 305024729,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-16T09:24:18Z",
+            "open_issues": 0,
             "owner": "hseera",
             "repo": "dynamic-workload-model",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cosine",
+              "performance-testing",
+              "python",
+              "workload-graph"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -628,12 +1044,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, async Python HTTP benchmarking tool inspired by wrk and Apache ab. Supports concurrent connections, latency breakdown,      percentile stats, SLO thresholds, rate limiting, scripted scenarios, live TUI dashboard, multi-URL testing, distributed master/worker   mode, and observability export (OpenTelemetry, Prometheus).",
+            "homepage": "https://github.com/kurok/pywrkr",
             "id": 1178704764,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T09:57:22Z",
+            "open_issues": 0,
             "owner": "kurok",
             "repo": "pywrkr",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -650,12 +1071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.",
+            "homepage": null,
             "id": 6083592,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-07T07:19:44Z",
+            "open_issues": 70,
             "owner": "pympler",
             "repo": "pympler",
-            "stars": 1410
+            "stars": 1410,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -666,12 +1092,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python memory profiler for data processing and scientific computing applications",
+            "homepage": "https://pythonspeed.com/products/filmemoryprofiler/",
             "id": 273254841,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-03T15:32:41Z",
+            "open_issues": 105,
             "owner": "pythonspeed",
             "repo": "filprofiler",
-            "stars": 906
+            "stars": 906,
+            "topics": [
+              "memory",
+              "memory-",
+              "memory-leak",
+              "memory-leak-detection",
+              "memory-leak-finder",
+              "memory-leaks",
+              "memory-profiler",
+              "memory-profiling",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -682,12 +1123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "guppy / heapy ported to Python3. It works for real!",
+            "homepage": "https://zhuyifei1999.github.io/guppy3/",
             "id": 202611372,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-18T01:12:42Z",
+            "open_issues": 5,
             "owner": "zhuyifei1999",
             "repo": "guppy3",
-            "stars": 431
+            "stars": 431,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -698,12 +1144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shows top suspects for memory leaks in your Python program.",
+            "homepage": null,
             "id": 20194501,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-13T15:38:17Z",
+            "open_issues": 0,
             "owner": "denis-ryzhkov",
             "repo": "mem_top",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -720,12 +1171,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library that allows you to easily mock out tests based on AWS infrastructure.",
+            "homepage": "http://docs.getmoto.org/en/latest/",
             "id": 8277372,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:29:40Z",
+            "open_issues": 61,
             "owner": "getmoto",
             "repo": "moto",
-            "stars": 8631
+            "stars": 8632,
+            "topics": [
+              "aws",
+              "boto",
+              "ec2",
+              "s3"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -736,12 +1197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let your Python tests travel through time",
+            "homepage": null,
             "id": 7106250,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-19T19:29:42Z",
+            "open_issues": 167,
             "owner": "spulec",
             "repo": "freezegun",
-            "stars": 4525
+            "stars": 4525,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -752,12 +1218,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility for mocking out the Python Requests library.",
+            "homepage": null,
             "id": 14437755,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T19:17:35Z",
+            "open_issues": 40,
             "owner": "getsentry",
             "repo": "responses",
-            "stars": 4345
+            "stars": 4345,
+            "topics": [
+              "tag-production"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -768,12 +1241,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intercept HTTP requests at the Python socket level. Fakes the whole socket module",
+            "homepage": "https://httpretty.readthedocs.org",
             "id": 1303056,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-09T14:37:11Z",
+            "open_issues": 130,
             "owner": "gabrielfalcao",
             "repo": "HTTPretty",
-            "stars": 2159
+            "stars": 2159,
+            "topics": [
+              "decorators",
+              "fakeweb",
+              "http",
+              "httpretty",
+              "mock",
+              "mocking",
+              "python",
+              "python2",
+              "streaming-response",
+              "tdd",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -784,12 +1275,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Travel through time in your tests.",
+            "homepage": "https://time-machine.readthedocs.io/en/latest/",
             "id": 259841110,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:43:30Z",
+            "open_issues": 7,
             "owner": "adamchainz",
             "repo": "time-machine",
-            "stars": 994
+            "stars": 994,
+            "topics": [
+              "python",
+              "testing",
+              "time"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -800,12 +1300,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides a fake file system that mocks the Python file system modules.",
+            "homepage": "https://pytest-pyfakefs.readthedocs.io",
             "id": 32300547,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:35:27Z",
+            "open_issues": 12,
             "owner": "pytest-dev",
             "repo": "pyfakefs",
-            "stars": 750
+            "stars": 750,
+            "topics": [
+              "filesystem",
+              "mocking",
+              "pytest-plugin",
+              "python",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -816,12 +1327,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "#1 quality TLS certs while you wait, for the discerning tester",
+            "homepage": "https://trustme.rtfd.io",
             "id": 97507840,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T12:53:26Z",
+            "open_issues": 5,
             "owner": "python-trio",
             "repo": "trustme",
-            "stars": 606
+            "stars": 606,
+            "topics": [
+              "python",
+              "ssl",
+              "ssl-certificate",
+              "testing",
+              "testing-tools",
+              "tls",
+              "tls-certificate"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -832,12 +1356,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aioresponses is a helper for mock/fake web requests in python aiohttp package.",
+            "homepage": null,
             "id": 71044055,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-23T21:15:11Z",
+            "open_issues": 65,
             "owner": "pnuckowski",
             "repo": "aioresponses",
-            "stars": 557
+            "stars": 557,
+            "topics": [
+              "aiohttp",
+              "asyncio",
+              "mocking",
+              "test"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -848,12 +1382,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mocking library for requests",
+            "homepage": null,
             "id": 8891992,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-29T20:58:48Z",
+            "open_issues": 15,
             "owner": "patrys",
             "repo": "httmock",
-            "stars": 472
+            "stars": 472,
+            "topics": [
+              "http",
+              "mock",
+              "python",
+              "requests"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -864,12 +1408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for stubbing in python",
+            "homepage": null,
             "id": 6590477,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-06-22T05:11:32Z",
+            "open_issues": 4,
             "owner": "alex",
             "repo": "pretend",
-            "stars": 318
+            "stars": 318,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -880,12 +1429,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a socket mock framework - for all kinds of socket animals, web-clients included",
+            "homepage": null,
             "id": 9766348,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T10:24:07Z",
+            "open_issues": 6,
             "owner": "mindflayer",
             "repo": "python-mocket",
-            "stars": 311
+            "stars": 311,
+            "topics": [
+              "aiohttp",
+              "asyncio",
+              "coverage",
+              "framework",
+              "http",
+              "httpretty",
+              "https",
+              "micropython",
+              "mock",
+              "mocket",
+              "mocking",
+              "python",
+              "socket",
+              "socket-communication",
+              "socket-programming",
+              "ssl",
+              "tdd",
+              "tdd-utilities",
+              "testing",
+              "urequests"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -896,12 +1471,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mocks for microservice environments",
+            "homepage": "https://mockintosh.io",
             "id": 318165108,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-20T17:16:51Z",
+            "open_issues": 23,
             "owner": "up9inc",
             "repo": "mockintosh",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "api",
+              "http",
+              "mock",
+              "mock-server"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -912,12 +1497,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cornell -  record & replay mock server",
+            "homepage": "https://hiredscorelabs.github.io/cornell/",
             "id": 384136311,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-06T13:43:46Z",
+            "open_issues": 1,
             "owner": "hiredscorelabs",
             "repo": "cornell",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "mock",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -928,12 +1522,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mockafka-py is a Python library designed for in-memory mocking of Kafka.[aiokafka - confluence-kafka-python]",
+            "homepage": "https://mockafka-py.readthedocs.io",
             "id": 709316651,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-20T15:54:23Z",
+            "open_issues": 19,
             "owner": "alm0ra",
             "repo": "mockafka-py",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "aiokafka",
+              "confluent-kafka-python",
+              "kafka",
+              "mock",
+              "mockafka"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -944,12 +1549,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mock/stub/spy library for Python",
+            "homepage": "https://flexmock.readthedocs.io/",
             "id": 47331574,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-09T17:48:56Z",
+            "open_issues": 29,
             "owner": "flexmock",
             "repo": "flexmock",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "mocking",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -960,12 +1574,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-process virtual filesystem with hard quota for Python",
+            "homepage": null,
             "id": 1169416730,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-22T20:07:27Z",
+            "open_issues": 0,
             "owner": "nightmarewalker",
             "repo": "D-MemFS",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "asyncio",
+              "etl",
+              "filesystem",
+              "free-threaded-python",
+              "hard-quota",
+              "in-memory",
+              "in-process",
+              "memory-filesystem",
+              "pure-python",
+              "python",
+              "quota",
+              "resource-management",
+              "sandbox",
+              "standard-library",
+              "temporary-filesystem",
+              "testing-tools",
+              "thread-safe",
+              "vfs",
+              "virtual-filesystem",
+              "zero-dependencies"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -976,12 +1616,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web service with a user interface for testing http requests and web hooks. Allows you to create an http mock for http requests.",
+            "homepage": "https://nuttech.github.io/Kesha/",
             "id": 369781692,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-06T05:04:53Z",
+            "open_issues": 29,
             "owner": "NUTtech",
             "repo": "Kesha",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "hacktoberfest",
+              "http",
+              "mock",
+              "postbin",
+              "requests",
+              "stub-server",
+              "stubs",
+              "testing",
+              "webhook"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -992,12 +1647,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytest plugin for full-certainty test mocking. Every recorded interaction must be explicitly asserted.",
+            "homepage": "https://axiomantic.github.io/pytest-tripwire/",
             "id": 1172483420,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-07T08:05:01Z",
+            "open_issues": 18,
             "owner": "axiomantic",
             "repo": "pytest-tripwire",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "full-certainty-testing",
+              "http-testing",
+              "integration-testing",
+              "interaction-testing",
+              "mocking",
+              "pytest",
+              "pytest-plugin",
+              "python",
+              "test-automation",
+              "test-doubles",
+              "test-framework",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -1014,12 +1687,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mutation testing system",
+            "homepage": "https://mutmut.readthedocs.io",
             "id": 73606074,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-17T18:29:43Z",
+            "open_issues": 50,
             "owner": "boxed",
             "repo": "mutmut",
-            "stars": 1409
+            "stars": 1409,
+            "topics": [
+              "mutation-testing",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1030,12 +1712,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mutation testing for Python",
+            "homepage": null,
             "id": 34157278,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-09T14:57:30Z",
+            "open_issues": 52,
             "owner": "sixty-north",
             "repo": "cosmic-ray",
-            "stars": 654
+            "stars": 654,
+            "topics": [
+              "mutation-testing",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1046,12 +1737,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MutPy is a mutation testing tool for Python 3.x source code",
+            "homepage": null,
             "id": 98443108,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-23T10:33:07Z",
+            "open_issues": 36,
             "owner": "mutpy",
             "repo": "mutpy",
-            "stars": 367
+            "stars": 367,
+            "topics": [
+              "development-tools",
+              "mutation-testing",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1062,12 +1762,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python mutation testing: test your tests! Safely run mutation trials without source code modifications and see what will get past your test suite.",
+            "homepage": "https://mutatest.readthedocs.io/",
             "id": 162820276,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-17T12:23:43Z",
+            "open_issues": 7,
             "owner": "EvanKepner",
             "repo": "mutatest",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "mutation",
+              "mutation-testing",
+              "python3",
+              "python37",
+              "python38",
+              "unit-test"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1078,12 +1790,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mutation testing for python",
+            "homepage": null,
             "id": 33084802,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-11-18T17:25:55Z",
+            "open_issues": 0,
             "owner": "vrthra",
             "repo": "xmutant.py",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1094,12 +1811,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A polyglot incremental mutation tester",
+            "homepage": "https://bough.codeenplace.dev/",
             "id": 1175601213,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-10T22:02:42Z",
+            "open_issues": 33,
             "owner": "CodeEnPlace",
             "repo": "bough",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "mutation-testing",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1110,12 +1835,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adversarial test-hardening for AI-written code: a Tester writes tests, mutation testing finds what they miss, a Critic kills the named survivors. Mechanical verdicts, mutation-kill receipts, $0 on a Claude subscription.",
+            "homepage": null,
             "id": 1296046727,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T19:08:34Z",
+            "open_issues": 2,
             "owner": "Jott2121",
             "repo": "crucible",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agents",
+              "ai-generated-code",
+              "claude",
+              "llm",
+              "mutation-testing",
+              "mutmut",
+              "pytest",
+              "test-generation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -1132,12 +1872,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A test fixtures replacement for Python",
+            "homepage": "https://factoryboy.readthedocs.io/",
             "id": 1732211,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-01T19:04:12Z",
+            "open_issues": 210,
             "owner": "FactoryBoy",
             "repo": "factory_boy",
-            "stars": 3805
+            "stars": 3805,
+            "topics": [
+              "django",
+              "fixtures",
+              "hacktoberfest",
+              "python",
+              "sqlalchemy",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1148,12 +1900,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and powerful factories for mock data generation",
+            "homepage": "https://polyfactory.litestar.dev/",
             "id": 427718519,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T22:43:58Z",
+            "open_issues": 74,
             "owner": "litestar-org",
             "repo": "polyfactory",
-            "stars": 1501
+            "stars": 1501,
+            "topics": [
+              "beanie",
+              "dataclasses",
+              "hacktoberfest",
+              "litestar",
+              "msgspec",
+              "odmantic",
+              "polyfactory",
+              "pydantic",
+              "pydantic-factories",
+              "python",
+              "starlite",
+              "typeddict"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1164,12 +1934,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object factory for Django",
+            "homepage": "https://model-bakery.readthedocs.io",
             "id": 213640673,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T12:17:17Z",
+            "open_issues": 12,
             "owner": "model-bakers",
             "repo": "model_bakery",
-            "stars": 1002
+            "stars": 1002,
+            "topics": [
+              "django",
+              "fixtures",
+              "object-factory",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1180,12 +1960,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects. ",
+            "homepage": null,
             "id": 10156090,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-08T09:29:07Z",
+            "open_issues": 49,
             "owner": "klen",
             "repo": "mixer",
-            "stars": 954
+            "stars": 954,
+            "topics": [
+              "django",
+              "flask",
+              "sqlalchemy",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -1202,12 +1993,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python tools for penetration testers",
+            "homepage": null,
             "id": 26720419,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-22T11:49:08Z",
+            "open_issues": 2,
             "owner": "dloss",
             "repo": "python-pentest-tools",
-            "stars": 2883
+            "stars": 2883,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1218,12 +2014,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Modular Penetration Testing Framework",
+            "homepage": "https://fsociety.dev/",
             "id": 264584126,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T19:36:37Z",
+            "open_issues": 21,
             "owner": "fsociety-team",
             "repo": "fsociety",
-            "stars": 1819
+            "stars": 1819,
+            "topics": [
+              "cli",
+              "docker",
+              "fsociety",
+              "osint",
+              "penetration-testing",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1234,12 +2043,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated API security testing",
+            "homepage": null,
             "id": 595668857,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-02T12:06:28Z",
+            "open_issues": 4,
             "owner": "abunuwas",
             "repo": "fencer",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "api",
+              "api-security",
+              "api-security-testing",
+              "graphql",
+              "jwt",
+              "oauth2",
+              "openapi",
+              "owasp-top-10",
+              "rest-api",
+              "security",
+              "sql-injection",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -1256,12 +2083,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The property-based testing library for Python",
+            "homepage": "https://hypothesis.works",
             "id": 8685799,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T07:13:15Z",
+            "open_issues": 50,
             "owner": "HypothesisWorks",
             "repo": "hypothesis",
-            "stars": 8918
+            "stars": 8918,
+            "topics": [
+              "fuzzing",
+              "property-based-testing",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1272,12 +2109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 313445559,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-17T17:35:18Z",
+            "open_issues": 40,
             "owner": "google",
             "repo": "atheris",
-            "stars": 1667
+            "stars": 1667,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1288,12 +2130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensions for Hypothesis that provides fully automatic testing for type hinted functions",
+            "homepage": null,
             "id": 208208579,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-23T07:55:49Z",
+            "open_issues": 6,
             "owner": "timothycrosley",
             "repo": "hypothesis-auto",
-            "stars": 355
+            "stars": 355,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1304,12 +2151,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptive fuzzing of Hypothesis tests",
+            "homepage": "https://hypofuzz.com/docs",
             "id": 284230374,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-15T15:50:48Z",
+            "open_issues": 30,
             "owner": "Zac-HD",
             "repo": "hypofuzz",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "fuzzing",
+              "hypothesis",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1320,12 +2176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combine contracts and automatic testing.",
+            "homepage": null,
             "id": 321988111,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-05T20:45:22Z",
+            "open_issues": 2,
             "owner": "mristin",
             "repo": "icontract-hypothesis",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1336,12 +2197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Level-up your Hypothesis tests with CrossHair",
+            "homepage": null,
             "id": 726496601,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-22T20:54:18Z",
+            "open_issues": 5,
             "owner": "pschanely",
             "repo": "hypothesis-crosshair",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -1358,12 +2224,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Actionable, automatic screenshots, unified Pytest HTML report  in less than 3 seconds — no hooks, merge plugins, no config, xdist-ready.",
+            "homepage": "https://reporterplus.io",
             "id": 986916642,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T13:32:28Z",
+            "open_issues": 4,
             "owner": "reporterplus",
             "repo": "pytest-html-plus",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "allure-alternative",
+              "automated-testing",
+              "flaky-tests",
+              "html-report",
+              "html-reporting",
+              "playwright",
+              "playwright-pytest",
+              "pytest",
+              "pytest-html",
+              "pytest-html-reporter",
+              "pytest-plugin",
+              "python",
+              "screenshots",
+              "screenshots-generated",
+              "selenium-pytest",
+              "selenium-python",
+              "test-report",
+              "test-summary-report",
+              "unit-tests",
+              "xdist"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1374,12 +2266,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1215771893,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-04T10:00:04Z",
+            "open_issues": 0,
             "owner": "ahmad212o",
             "repo": "pytest-cloudreport",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ci",
+              "devtools",
+              "flaky-tests",
+              "pytest",
+              "pytest-plugin",
+              "python",
+              "test-analytics",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -1396,12 +2302,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。",
+            "homepage": "https://httprunner.com",
             "id": 94166852,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-11T16:50:50Z",
+            "open_issues": 502,
             "owner": "httprunner",
             "repo": "httprunner",
-            "stars": 4296
+            "stars": 4296,
+            "topics": [
+              "adb",
+              "agent-tars",
+              "mcp-server",
+              "mcphost",
+              "testing",
+              "ui-tars",
+              "ui-testing",
+              "uiautomator2",
+              "wda",
+              "webdriveragent"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1412,12 +2334,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Language-agnostic HTTP API Testing Tool",
+            "homepage": "https://dredd.org",
             "id": 12590052,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-11T13:19:25Z",
+            "open_issues": 260,
             "owner": "apiaryio",
             "repo": "dredd",
-            "stars": 4222
+            "stars": 4222,
+            "topics": [
+              "api",
+              "api-blueprint",
+              "cli-app",
+              "dredd",
+              "http",
+              "integration-testing",
+              "openapi",
+              "openapi-validation",
+              "openapi2",
+              "openapi3",
+              "sjs-team",
+              "swagger",
+              "test-framework",
+              "test-runner",
+              "testing",
+              "testing-framework",
+              "tests",
+              "unit-testing",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1428,12 +2375,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catch API bugs before your users do",
+            "homepage": "https://schemathesis.readthedocs.io",
             "id": 203157084,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:20:07Z",
+            "open_issues": 8,
             "owner": "schemathesis",
             "repo": "schemathesis",
-            "stars": 3565
+            "stars": 3565,
+            "topics": [
+              "api",
+              "api-testing",
+              "cli",
+              "fuzzing",
+              "graphql",
+              "hypothesis",
+              "openapi",
+              "property-based-testing",
+              "pytest",
+              "swagger",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1444,12 +2408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.",
+            "homepage": null,
             "id": 282320787,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-10T13:05:25Z",
+            "open_issues": 299,
             "owner": "microsoft",
             "repo": "restler-fuzzer",
-            "stars": 2938
+            "stars": 2938,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1460,12 +2429,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.",
+            "homepage": null,
             "id": 428941557,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-25T10:04:00Z",
+            "open_issues": 38,
             "owner": "blst-security",
             "repo": "cherrybomb",
-            "stars": 1234
+            "stars": 1234,
+            "topics": [
+              "api",
+              "api-security",
+              "best-practices",
+              "blst",
+              "business-logic",
+              "cli",
+              "cyber",
+              "cybersecurity",
+              "firecracker",
+              "http",
+              "open-source",
+              "openapi",
+              "openapi3",
+              "security",
+              "security-tools",
+              "web-sec-scanner",
+              "web-security",
+              "websecurity"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1476,12 +2469,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax",
+            "homepage": "https://taverntesting.github.io/",
             "id": 109144395,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:03:22Z",
+            "open_issues": 25,
             "owner": "taverntesting",
             "repo": "tavern",
-            "stars": 1153
+            "stars": 1153,
+            "topics": [
+              "grpc",
+              "grpc-python",
+              "http",
+              "mqtt",
+              "pytest",
+              "python",
+              "test-automation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1492,12 +2499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Record your service operations in production and replay them locally at any time in a sandbox",
+            "homepage": null,
             "id": 328385785,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T14:17:34Z",
+            "open_issues": 4,
             "owner": "Optibus",
             "repo": "playback",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1508,12 +2520,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BDD Framework to Test REST Services and APIs",
+            "homepage": null,
             "id": 112867405,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T23:36:55Z",
+            "open_issues": 4,
             "owner": "abantos",
             "repo": "behave-restful",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "bdd",
+              "behavior",
+              "gherkin",
+              "language",
+              "rest",
+              "rest-api",
+              "restful-api",
+              "restful-webservices",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1524,12 +2552,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate arbitrary queries matching your GraphQL schema, and use them to verify your backend implementation.",
+            "homepage": "https://pypi.org/project/hypothesis-graphql/",
             "id": 253857182,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T00:29:07Z",
+            "open_issues": 4,
             "owner": "Stranger6667",
             "repo": "hypothesis-graphql",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "data-generation",
+              "graphql",
+              "hypothesis",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1540,12 +2579,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert Postman Collection v2.1 JSON into executable pytest test suites",
+            "homepage": null,
             "id": 1219893417,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T05:22:41Z",
+            "open_issues": 1,
             "owner": "golikovichev",
             "repo": "postman2pytest",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "api-testing",
+              "postman",
+              "pytest",
+              "python",
+              "qa",
+              "test-generation"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -1562,12 +2613,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures",
+            "homepage": null,
             "id": 5362370,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T08:18:04Z",
+            "open_issues": 45,
             "owner": "pytest-dev",
             "repo": "pytest-rerunfailures",
-            "stars": 472
+            "stars": 472,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1578,12 +2634,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pytest plugin that allows multiple failures per test.",
+            "homepage": null,
             "id": 108791429,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-01T06:27:35Z",
+            "open_issues": 2,
             "owner": "okken",
             "repo": "pytest-check",
-            "stars": 426
+            "stars": 427,
+            "topics": [
+              "assertion-library",
+              "pytest",
+              "pytest-plugin"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1594,12 +2659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find the test that's leaking before the one that fails",
+            "homepage": "https://mgaitan.github.io/pytest-leak-finder/",
             "id": 454759458,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-19T02:57:35Z",
+            "open_issues": 4,
             "owner": "mgaitan",
             "repo": "pytest-leak-finder",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1610,12 +2680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple plugin for retrying flaky tests in CI environments",
+            "homepage": null,
             "id": 498449104,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-19T01:53:30Z",
+            "open_issues": 11,
             "owner": "str0zzapreti",
             "repo": "pytest-retry",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1626,12 +2701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 801141882,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-10T08:44:49Z",
+            "open_issues": 0,
             "owner": "plasma-umass",
             "repo": "pytest-cleanslate",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -1648,12 +2728,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically mock your HTTP interactions to simplify and speed up testing",
+            "homepage": null,
             "id": 4477733,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:33:42Z",
+            "open_issues": 161,
             "owner": "kevin1024",
             "repo": "vcrpy",
-            "stars": 2987
+            "stars": 2987,
+            "topics": [
+              "http",
+              "mocking",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1664,12 +2754,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":pancakes: The most popular pytest snapshot plugin",
+            "homepage": "https://syrupy-project.github.io/syrupy/",
             "id": 216412299,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T22:43:41Z",
+            "open_issues": 6,
             "owner": "syrupy-project",
             "repo": "syrupy",
-            "stars": 878
+            "stars": 878,
+            "topics": [
+              "pytest",
+              "pytest-plugin",
+              "python",
+              "snapshot",
+              "snapshot-plugin",
+              "snapshot-testing",
+              "snapshot-tests",
+              "snapshottest",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1680,12 +2785,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.",
+            "homepage": "https://15r10nk.github.io/inline-snapshot/",
             "id": 517749777,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-14T08:33:16Z",
+            "open_issues": 24,
             "owner": "15r10nk",
             "repo": "inline-snapshot",
-            "stars": 749
+            "stars": 749,
+            "topics": [
+              "approval-testing",
+              "golden-master",
+              "pytest-plugin",
+              "python",
+              "snapshot-testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1696,12 +2812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snapshot Testing utils for Python 📸",
+            "homepage": null,
             "id": 87759082,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-01T09:35:34Z",
+            "open_issues": 54,
             "owner": "syrusakbary",
             "repo": "snapshottest",
-            "stars": 549
+            "stars": 549,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1712,12 +2833,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ApprovalTests for python",
+            "homepage": null,
             "id": 12657590,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:34:24Z",
+            "open_issues": 13,
             "owner": "approvals",
             "repo": "ApprovalTests.Python",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -1734,12 +2860,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.",
+            "homepage": "https://testmon.org",
             "id": 30190430,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-01T07:34:04Z",
+            "open_issues": 37,
             "owner": "tarpas",
             "repo": "pytest-testmon",
-            "stars": 1008
+            "stars": 1008,
+            "topics": [
+              "build-tool",
+              "ci",
+              "python",
+              "test-automation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1750,12 +2887,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run the tests related to the changed files (according to Git) 🤓",
+            "homepage": null,
             "id": 134160822,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-01T04:16:31Z",
+            "open_issues": 8,
             "owner": "anapaulagomes",
             "repo": "pytest-picked",
-            "stars": 409
+            "stars": 409,
+            "topics": [
+              "git",
+              "hacktoberfest",
+              "pytest",
+              "python",
+              "tests"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1766,12 +2914,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of tips, tricks and links to help you speed up your pytest suite.",
+            "homepage": null,
             "id": 550799648,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-13T17:29:24Z",
+            "open_issues": 5,
             "owner": "zupo",
             "repo": "awesome-pytest-speedup",
-            "stars": 370
+            "stars": 370,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1782,12 +2935,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more! Optional Educational Guidance for Beginners, teaching good Performance Practices for Django Models, Views, and Serializers.",
+            "homepage": null,
             "id": 1030670407,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-11T13:01:24Z",
+            "open_issues": 0,
             "owner": "smattymatty",
             "repo": "Django-Mercury-Performance-Testing",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "django",
+              "framework",
+              "mercury",
+              "performance",
+              "testing",
+              "tests"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1798,12 +2963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cut Python CI times by 90% without sacrificing confidence.",
+            "homepage": null,
             "id": 1266822832,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-22T17:27:42Z",
+            "open_issues": 0,
             "owner": "deltatest-org",
             "repo": "pytest-deltatest",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -1820,12 +2990,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extremely fast Python linter and code formatter, written in Rust.",
+            "homepage": "https://docs.astral.sh/ruff",
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-29T01:54:05Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:45:40Z",
+            "open_issues": 2149,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49373
+            "stars": 49376,
+            "topics": [
+              "linter",
+              "pep8",
+              "python",
+              "python3",
+              "ruff",
+              "rust",
+              "rustpython",
+              "static-analysis",
+              "static-code-analysis",
+              "style-guide",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1836,12 +3023,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bandit is a tool designed to find common security issues in Python code.",
+            "homepage": "https://bandit.readthedocs.io",
             "id": 131129792,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T11:13:47Z",
+            "open_issues": 260,
             "owner": "PyCQA",
             "repo": "bandit",
-            "stars": 8245
+            "stars": 8246,
+            "topics": [
+              "bandit",
+              "linter",
+              "python",
+              "security",
+              "security-scanner",
+              "security-tools",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1852,12 +3052,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It's not just a linter that annoys you!",
+            "homepage": "https://pylint.readthedocs.io/en/latest/",
             "id": 47671127,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T12:01:09Z",
+            "open_issues": 1082,
             "owner": "pylint-dev",
             "repo": "pylint",
-            "stars": 5719
+            "stars": 5719,
+            "topics": [
+              "closember",
+              "code-quality",
+              "hacktoberfest",
+              "linter",
+              "pep8",
+              "static-analysis",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1868,12 +3081,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code spell checker",
+            "homepage": null,
             "id": 181782286,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:31:54Z",
+            "open_issues": 155,
             "owner": "crate-ci",
             "repo": "typos",
-            "stars": 4115
+            "stars": 4115,
+            "topics": [
+              "cli",
+              "code-quality",
+              "rust",
+              "spell-checker"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1884,12 +3107,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for refurbishing and modernizing Python codebases",
+            "homepage": null,
             "id": 518305561,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-03T21:43:32Z",
+            "open_issues": 33,
             "owner": "dosisod",
             "repo": "refurb",
-            "stars": 2532
+            "stars": 2532,
+            "topics": [
+              "cli",
+              "gplv3",
+              "mypy",
+              "python",
+              "python310",
+              "python311",
+              "python312",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1900,12 +3137,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of awesome Python types, stubs, plugins, and tools to work with them.",
+            "homepage": "https://github.com/typeddjango",
             "id": 207661821,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-06-19T06:03:10Z",
+            "open_issues": 7,
             "owner": "typeddjango",
             "repo": "awesome-python-typing",
-            "stars": 1980
+            "stars": 1980,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "mypy",
+              "mypy-plugins",
+              "mypy-stubs",
+              "pep484",
+              "pyi",
+              "python",
+              "python-stubs",
+              "python-types"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1916,12 +3169,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple program which checks Python source files for errors",
+            "homepage": "https://pypi.org/project/pyflakes",
             "id": 18508013,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-20T18:45:32Z",
+            "open_issues": 60,
             "owner": "PyCQA",
             "repo": "pyflakes",
-            "stars": 1456
+            "stars": 1456,
+            "topics": [
+              "hacktoberfest",
+              "linter",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1932,12 +3194,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
+            "homepage": null,
             "id": 156768939,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-21T07:29:57Z",
+            "open_issues": 1,
             "owner": "DmytroLitvinov",
             "repo": "awesome-flake8-extensions",
-            "stars": 1278
+            "stars": 1278,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "code-quality",
+              "collections",
+              "flake8",
+              "flake8-extensions",
+              "flake8-plugins",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1948,12 +3226,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazingly fast cognitive complexity analysis for Python, written in Rust.",
+            "homepage": "https://rohaquinlop.github.io/complexipy/",
             "id": 746140707,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:54:52Z",
+            "open_issues": 9,
             "owner": "rohaquinlop",
             "repo": "complexipy",
-            "stars": 819
+            "stars": 819,
+            "topics": [
+              "clean-code",
+              "code-quality",
+              "cognitive-complexity",
+              "cognitive-load",
+              "maintainability",
+              "quality",
+              "quality-control",
+              "understandability"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1964,12 +3256,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python type checker",
+            "homepage": null,
             "id": 267139502,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-27T19:52:37Z",
+            "open_issues": 61,
             "owner": "quora",
             "repo": "pyanalyze",
-            "stars": 386
+            "stars": 386,
+            "topics": [
+              "linter",
+              "python",
+              "static-analysis",
+              "typechecker",
+              "types",
+              "typing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1980,12 +3284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎰 Ensure your __slots__ are working properly",
+            "homepage": "https://slotscheck.rtfd.io",
             "id": 442835852,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T06:17:30Z",
+            "open_issues": 12,
             "owner": "ariebovenberg",
             "repo": "slotscheck",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -1996,12 +3305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Python type checkers (PEP 484 compliant and not, static and runtime/dynamic)",
+            "homepage": null,
             "id": 99622640,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-19T05:34:30Z",
+            "open_issues": 1,
             "owner": "emmatyping",
             "repo": "python-typecheckers",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -2018,12 +3332,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible test automation for Python",
+            "homepage": "https://nox.thea.codes",
             "id": 52413187,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T03:09:11Z",
+            "open_issues": 71,
             "owner": "wntrblm",
             "repo": "nox",
-            "stars": 1552
+            "stars": 1552,
+            "topics": [
+              "automation",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2034,12 +3357,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Green is a clean, colorful, fast python test runner.",
+            "homepage": null,
             "id": 18342888,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-12T22:24:35Z",
+            "open_issues": 8,
             "owner": "CleanCut",
             "repo": "green",
-            "stars": 805
+            "stars": 805,
+            "topics": [
+              "green",
+              "python",
+              "test-automation",
+              "test-driven-development",
+              "test-runner",
+              "testing",
+              "unittest"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -2056,12 +3392,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generic automation framework for acceptance testing and RPA",
+            "homepage": "http://robotframework.org",
             "id": 21273155,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:09:16Z",
+            "open_issues": 298,
             "owner": "robotframework",
             "repo": "robotframework",
-            "stars": 11849
+            "stars": 11849,
+            "topics": [
+              "attd",
+              "automation",
+              "bdd",
+              "python",
+              "robotframework",
+              "rpa",
+              "testautomation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2072,12 +3422,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Django plugin for pytest.",
+            "homepage": "https://pytest-django.readthedocs.io/",
             "id": 2484397,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T20:42:59Z",
+            "open_issues": 185,
             "owner": "pytest-dev",
             "repo": "pytest-django",
-            "stars": 1544
+            "stars": 1544,
+            "topics": [
+              "django",
+              "pytest",
+              "pytest-plugin",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2088,12 +3449,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ward is a modern test framework for Python with a focus on productivity and readability.",
+            "homepage": "https://ward.readthedocs.io",
             "id": 164605649,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-26T22:58:48Z",
+            "open_issues": 50,
             "owner": "darrenburns",
             "repo": "ward",
-            "stars": 1208
+            "stars": 1208,
+            "topics": [
+              "contributors-welcome",
+              "python",
+              "quality-assurance",
+              "test-runner",
+              "tester",
+              "testing",
+              "testing-framework",
+              "unit-test",
+              "ward"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2104,12 +3480,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The successor to nose, based on unittest2",
+            "homepage": "https://nose2.io",
             "id": 2980827,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T17:03:29Z",
+            "open_issues": 45,
             "owner": "nose-devs",
             "repo": "nose2",
-            "stars": 826
+            "stars": 826,
+            "topics": [
+              "library",
+              "nose",
+              "nose2",
+              "nosetest",
+              "nosetests",
+              "python",
+              "python-2",
+              "python-3",
+              "python-library",
+              "python2",
+              "python3",
+              "testing",
+              "testing-framework",
+              "testing-library",
+              "testing-tool",
+              "testing-tools",
+              "unit-test",
+              "unittest",
+              "unittesting"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2120,12 +3521,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.",
+            "homepage": "https://maelstrom-software.com/",
             "id": 634972366,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-23T19:28:14Z",
+            "open_issues": 190,
             "owner": "maelstrom-software",
             "repo": "maelstrom",
-            "stars": 733
+            "stars": 733,
+            "topics": [
+              "cargo-subcommand",
+              "containers",
+              "distributed-systems",
+              "go",
+              "golang",
+              "pytest",
+              "python",
+              "rust",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2136,12 +3552,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome pytest resources",
+            "homepage": null,
             "id": 110533057,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-24T17:41:32Z",
+            "open_issues": 5,
             "owner": "augustogoulart",
             "repo": "awesome-pytest",
-            "stars": 574
+            "stars": 575,
+            "topics": [
+              "awesome",
+              "digitalocean",
+              "hacktoberfest",
+              "open-source",
+              "pytest",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2152,12 +3581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Promptimize is a prompt engineering evaluation and testing toolkit.",
+            "homepage": null,
             "id": 623548255,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-25T21:07:55Z",
+            "open_issues": 17,
             "owner": "preset-io",
             "repo": "promptimize",
-            "stars": 498
+            "stars": 498,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2168,12 +3602,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧪 📗  Unit test your Jupyter Notebooks the right way",
+            "homepage": "https://testbook.readthedocs.io",
             "id": 243350564,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-25T01:24:05Z",
+            "open_issues": 46,
             "owner": "nteract",
             "repo": "testbook",
-            "stars": 434
+            "stars": 434,
+            "topics": [
+              "jupyter-notebook",
+              "nteract",
+              "pytest",
+              "python",
+              "testbook",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2184,12 +3630,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of RegEx.",
+            "homepage": null,
             "id": 104611526,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-14T02:36:49Z",
+            "open_issues": 28,
             "owner": "Erotemic",
             "repo": "xdoctest",
-            "stars": 222
+            "stars": 222,
+            "topics": [
+              "docstrings",
+              "doctest",
+              "pytest",
+              "pytest-plugin",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2200,12 +3657,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework-agnostic library for testing ASGI web applications",
+            "homepage": null,
             "id": 181481577,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-29T14:52:47Z",
+            "open_issues": 15,
             "owner": "vinissimus",
             "repo": "async-asgi-testclient",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "asgi",
+              "guillotina",
+              "quart",
+              "starlette",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2216,12 +3684,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast python test runner, compatible with a subset of pytest",
+            "homepage": null,
             "id": 247491171,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-09-23T10:59:33Z",
+            "open_issues": 7,
             "owner": "boxed",
             "repo": "hammett",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "pytest",
+              "python",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2232,12 +3710,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pragmatic Testing Framework",
+            "homepage": "https://vedro.io",
             "id": 44535919,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T21:01:03Z",
+            "open_issues": 22,
             "owner": "vedro-universe",
             "repo": "vedro",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "e2e-testing",
+              "python",
+              "testing",
+              "testing-tools",
+              "vedro"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2248,12 +3737,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Python package for performance testing of Python functions.",
+            "homepage": null,
             "id": 491407570,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-04T06:43:04Z",
+            "open_issues": 12,
             "owner": "nyggus",
             "repo": "perftester",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "benchmark",
+              "benchmarking",
+              "performance",
+              "performance-analysis",
+              "performance-testing",
+              "profiling",
+              "python",
+              "testing",
+              "testing-framework",
+              "testing-library",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2264,12 +3770,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust-based Python test runner with a Jest-style API",
+            "homepage": "https://tryke.dev/",
             "id": 1169046328,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-01T08:09:25Z",
+            "open_issues": 17,
             "owner": "thejchap",
             "repo": "tryke",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "developer-tools",
+              "python",
+              "rust",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2280,12 +3796,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rut - Run Unit Tests",
+            "homepage": "https://schettino72.github.io/rut/",
             "id": 486699356,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-30T13:20:02Z",
+            "open_issues": 2,
             "owner": "schettino72",
             "repo": "rut",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "cli",
+              "test-runner",
+              "testing",
+              "testing-framework",
+              "testing-tools",
+              "unittest"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2296,12 +3824,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Making Python testing easy, enjoyable, and effective ☀️",
+            "homepage": "https://devenjarvis.github.io/sundew/",
             "id": 583506711,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-07T17:18:51Z",
+            "open_issues": 29,
             "owner": "devenjarvis",
             "repo": "sundew",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "python",
+              "sundew",
+              "testing",
+              "testing-framework",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2312,12 +3851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Testified Documentation plugin for Sphinx",
+            "homepage": null,
             "id": 875214150,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T06:13:42Z",
+            "open_issues": 2,
             "owner": "BasicWolf",
             "repo": "sphinx-testify",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2328,12 +3872,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pytest plugin for multi-turn dialogue testing. Rule-based assertions, no LLM dependency",
+            "homepage": null,
             "id": 1225547029,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T05:20:22Z",
+            "open_issues": 0,
             "owner": "golikovichev",
             "repo": "pytest-conversational",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "chatbot",
+              "conversational-ai",
+              "dialogue-testing",
+              "multi-turn-dialogue",
+              "pytest-plugin",
+              "python",
+              "qa",
+              "test-automation",
+              "voice-testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -2350,12 +3909,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The PYthoN General UnIt Test geNerator is a test-generation tool for Python",
+            "homepage": "https://www.pynguin.eu",
             "id": 282944472,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T09:59:55Z",
+            "open_issues": 8,
             "owner": "se2p",
             "repo": "pynguin",
-            "stars": 1384
+            "stars": 1384,
+            "topics": [
+              "python",
+              "search-based-software-testing",
+              "test-generation",
+              "test-generator",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2366,12 +3936,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An analysis tool for Python that blurs the line between testing and type systems.",
+            "homepage": null,
             "id": 101762821,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T15:15:09Z",
+            "open_issues": 76,
             "owner": "pschanely",
             "repo": "CrossHair",
-            "stars": 1319
+            "stars": 1319,
+            "topics": [
+              "concolic-execution",
+              "contracts",
+              "dynamic-analysis",
+              "fuzzing",
+              "hacktoberfest",
+              "python",
+              "static-analysis",
+              "symbolic-execution",
+              "testing",
+              "testing-framework",
+              "type-systems",
+              "z3"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2382,12 +3970,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic test case generation for python and static analysis library",
+            "homepage": "https://klara-py.readthedocs.io",
             "id": 125526736,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-28T08:41:17Z",
+            "open_issues": 3,
             "owner": "usagitoneko97",
             "repo": "klara",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "ast",
+              "cfg",
+              "python",
+              "ssa",
+              "static-analysis",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2398,12 +3998,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python fixtures and daemon managing tools for functional testing",
+            "homepage": null,
             "id": 54391698,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T11:40:43Z",
+            "open_issues": 16,
             "owner": "jd",
             "repo": "pifpaf",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "aodh",
+              "ceph",
+              "consule",
+              "couchdb",
+              "elasticsearch",
+              "etcd",
+              "fakes3",
+              "fixtures",
+              "gnocchi",
+              "influxdb",
+              "keystone",
+              "mongodb",
+              "mysql",
+              "openstack",
+              "postgresql",
+              "python",
+              "redis",
+              "s3rver",
+              "swift",
+              "zookeeper"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2414,12 +4040,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library that automatically infers dependencies for Python files",
+            "homepage": null,
             "id": 123326542,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-03T08:56:10Z",
+            "open_issues": 11,
             "owner": "google",
             "repo": "importlab",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2430,12 +4061,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test whether your code is logging correctly 🪵",
+            "homepage": "https://logot.readthedocs.io",
             "id": 743202960,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-22T10:24:47Z",
+            "open_issues": 12,
             "owner": "etianen",
             "repo": "logot",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "logging",
+              "pytest-plugin",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2446,12 +4087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Formatter for your Python unit tests ",
+            "homepage": null,
             "id": 299678416,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-29T13:39:34Z",
+            "open_issues": 11,
             "owner": "isidentical",
             "repo": "teyit",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2462,12 +4108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically convert unittests to pytest",
+            "homepage": null,
             "id": 385409707,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T23:16:47Z",
+            "open_issues": 10,
             "owner": "dannysepler",
             "repo": "pytestify",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2478,12 +4129,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reusable database fixtures for any and all databases.",
+            "homepage": "https://litestar-org.github.io/pytest-databases/",
             "id": 777981719,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-22T17:05:05Z",
+            "open_issues": 16,
             "owner": "litestar-org",
             "repo": "pytest-databases",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "alloydb",
+              "azure-blob-storage",
+              "bigquery",
+              "cockroachdb",
+              "mariadb",
+              "minio",
+              "mysql",
+              "oracle",
+              "postgresql",
+              "pytest",
+              "pytest-plugin",
+              "redis",
+              "spanner",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2494,12 +4165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pytest fixture wrapper for https://pypi.org/project/mock-generator",
+            "homepage": null,
             "id": 391848294,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-02T17:45:59Z",
+            "open_issues": 0,
             "owner": "pksol",
             "repo": "pytest-mock-generator",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2510,12 +4186,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated failure-mode QA for text-to-speech systems — structural audio checks, equivalence-aware WER/CER, ASR-uncertainty quarantine. Method published with DOI.",
+            "homepage": "https://tts.bedvibe.studio/portfolio/",
             "id": 1296311094,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T03:56:20Z",
+            "open_issues": 0,
             "owner": "Mormolykos",
             "repo": "ttsproof",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "python",
+              "qa",
+              "qc",
+              "speech",
+              "speech-synthesis",
+              "tts"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2526,12 +4214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pytest plugin that ships per-test results to ClickHouse for trend analysis, flakiness tracking, and CI observability.",
+            "homepage": null,
             "id": 1238008133,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T13:14:57Z",
+            "open_issues": 1,
             "owner": "shakhov-dmitrii",
             "repo": "pytest-test-observer",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2542,12 +4235,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deterministic pytest suite generator from Kibana API logs",
+            "homepage": null,
             "id": 1226373660,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T05:21:09Z",
+            "open_issues": 0,
             "owner": "golikovichev",
             "repo": "secure-log2test",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "api-testing",
+              "cli",
+              "kibana",
+              "log-parsing",
+              "logs",
+              "pytest",
+              "python",
+              "qa",
+              "test-generation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2558,12 +4267,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check that a coding agent's green test run was actually earned, not manufactured by editing the tests.",
+            "homepage": null,
             "id": 1306220276,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-31T01:59:49Z",
+            "open_issues": 0,
             "owner": "zxyasfas",
             "repo": "greenproof",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "agent-verification",
+              "ai-agents",
+              "coding-agent",
+              "pytest",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2574,12 +4295,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "quick-gate-python (PyPI: pygate-ci) is a deterministic Python CI quality gate that normalizes Ruff, Pyright, and pytest results into one fail-fast decision, attempts bounded auto-repair, and escalates with machine-readable evidence for humans or agents when it cannot finish safely. A gate-and-escalate wrapper, not a lint dashboard.",
+            "homepage": "https://hermes-labs.ai",
             "id": 1165193676,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T20:23:22Z",
+            "open_issues": 1,
             "owner": "hermes-labs-ai",
             "repo": "quick-gate-python",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "ai-reliability",
+              "auto-repair",
+              "ci",
+              "ci-cd",
+              "code-quality",
+              "devtools",
+              "hermes-labs",
+              "linting",
+              "pyright",
+              "pytest",
+              "python",
+              "quality-gate",
+              "ruff",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -2596,12 +4338,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📊 APIs for web automation, testing, and bypassing bot-detection.",
+            "homepage": "https://seleniumbase.io",
             "id": 17420614,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:54:41Z",
+            "open_issues": 14,
             "owner": "seleniumbase",
             "repo": "SeleniumBase",
-            "stars": 12968
+            "stars": 12968,
+            "topics": [
+              "anti-detection",
+              "bot-detection",
+              "chromedriver",
+              "chromium",
+              "data",
+              "e2e-testing",
+              "end-to-end-testing",
+              "playwright",
+              "pytest",
+              "python",
+              "python-scraper",
+              "selenium",
+              "selenium-python",
+              "seleniumbase",
+              "stealth",
+              "test-automation",
+              "web-automation",
+              "web-scraping",
+              "webdriver",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2612,12 +4380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.",
+            "homepage": null,
             "id": 21961171,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-20T18:34:57Z",
+            "open_issues": 584,
             "owner": "asweigart",
             "repo": "pyautogui",
-            "stars": 12669
+            "stars": 12669,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2628,12 +4401,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lighter web automation with Python",
+            "homepage": null,
             "id": 224234024,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T07:25:19Z",
+            "open_issues": 55,
             "owner": "mherrmann",
             "repo": "helium",
-            "stars": 8323
+            "stars": 8323,
+            "topics": [
+              "chrome",
+              "firefox",
+              "helium",
+              "python",
+              "python3",
+              "selenium",
+              "selenium-python",
+              "web-automation",
+              "web-scraping",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2644,12 +4433,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "splinter - python test framework for web applications ",
+            "homepage": "http://splinter.readthedocs.org/en/stable/index.html",
             "id": 921367,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-08-16T15:08:24Z",
+            "open_issues": 58,
             "owner": "cobrateam",
             "repo": "splinter",
-            "stars": 2753
+            "stars": 2753,
+            "topics": [
+              "automation",
+              "hacktoberfest",
+              "python",
+              "selenium",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2660,12 +4460,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sixpack is a language-agnostic a/b-testing framework",
+            "homepage": "http://sixpack.seatgeek.com",
             "id": 6697085,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-08-21T18:43:32Z",
+            "open_issues": 89,
             "owner": "sixpack",
             "repo": "sixpack",
-            "stars": 1754
+            "stars": 1754,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2676,12 +4481,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open source alternative to Percy, Chromatic, Applitools.",
+            "homepage": "https://lost-pixel.com/",
             "id": 440311533,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-22T17:12:49Z",
+            "open_issues": 67,
             "owner": "lost-pixel",
             "repo": "lost-pixel",
-            "stars": 1683
+            "stars": 1683,
+            "topics": [
+              "cd",
+              "ci",
+              "developer-tools",
+              "development-tools",
+              "github-actions",
+              "histoire",
+              "ladle",
+              "platform",
+              "quality-assurance",
+              "saas",
+              "storybook",
+              "test-automation",
+              "testing-tools",
+              "tools",
+              "typescript",
+              "visual-regression-testing",
+              "visual-regressions",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2692,12 +4521,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于自然语言的，跨端跨框架 BDD UI 自动化测试方案，BDD testing, Python style, Present by Trip Flight",
+            "homepage": "https://ctripcorp.github.io/flybirds/",
             "id": 443025198,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-27T07:34:36Z",
+            "open_issues": 35,
             "owner": "ctripcorp",
             "repo": "flybirds",
-            "stars": 915
+            "stars": 915,
+            "topics": [
+              "android",
+              "automation",
+              "bdd-style-testing-framework",
+              "flutter-test",
+              "ios",
+              "python",
+              "test-automation",
+              "testing",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2708,12 +4552,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+            "homepage": "https://vostride.com",
             "id": 1232322871,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T18:44:59Z",
+            "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 905
+            "stars": 913,
+            "topics": [
+              "ai-agents",
+              "ai-testing",
+              "anthropic",
+              "autonomous-agents",
+              "browser-automation",
+              "chatgpt",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "developer-tools",
+              "dsh-plugin",
+              "end-to-end-testing",
+              "frontend",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "openai",
+              "playwright",
+              "qa-automation"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2724,12 +4594,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User-oriented Web UI browser tests in Python",
+            "homepage": "https://yashaka.github.io/selene/",
             "id": 34106396,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-09T20:45:44Z",
+            "open_issues": 123,
             "owner": "yashaka",
             "repo": "selene",
-            "stars": 733
+            "stars": 733,
+            "topics": [
+              "automation",
+              "e2e-testing",
+              "python",
+              "selene",
+              "selenide",
+              "selenium",
+              "testing",
+              "web",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2740,12 +4625,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A complete test automation tool",
+            "homepage": "http://golem-framework.readthedocs.io/",
             "id": 49449822,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-07T13:15:15Z",
+            "open_issues": 16,
             "owner": "golemhq",
             "repo": "golem",
-            "stars": 480
+            "stars": 480,
+            "topics": [
+              "automation",
+              "selenium",
+              "selenium-webdriver",
+              "testing",
+              "testing-framework",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2756,12 +4653,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "两种模式playwright与selenium结合的基于pytest的web ui测试框架, 支持page object与screen play双测试模型, BDD最佳实践的测试实现",
+            "homepage": null,
             "id": 411085183,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-16T10:16:30Z",
+            "open_issues": 1,
             "owner": "moyu6027",
             "repo": "pytest-ui-automatic",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2772,12 +4674,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick start for perfect tests",
+            "homepage": "https://saritasa-nest.github.io/pomcorn/latest/",
             "id": 696827488,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T10:09:41Z",
+            "open_issues": 1,
             "owner": "saritasa-nest",
             "repo": "pomcorn",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "autotesting",
+              "autotests",
+              "browser",
+              "pageobject",
+              "pageobject-pattern",
+              "pageobjectmodel",
+              "parsing",
+              "pom",
+              "python",
+              "selenium-python",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2788,12 +4707,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UI Automation Framework for HarmonyOS NEXT - uiautomator2-compatible API, zero learning cost",
+            "homepage": "https://pypi.org/project/hmnextauto/",
             "id": 1225369332,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T02:10:57Z",
+            "open_issues": 2,
             "owner": "ziguiway",
             "repo": "hmnextauto",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "automation-testing",
+              "harmony",
+              "harmonyos",
+              "harmonyos-next",
+              "harmonyosnext",
+              "hdc",
+              "mobile-testing",
+              "python",
+              "ui-automation",
+              "uiautomator2"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2804,12 +4739,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LuluTest is a Python framework for creating automated browser tests.",
+            "homepage": null,
             "id": 202449262,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-18T01:28:23Z",
+            "open_issues": 6,
             "owner": "erik-whiting",
             "repo": "LuluTest",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "automation-selenium",
+              "hacktoberfest",
+              "hacktoberfest2022",
+              "python",
+              "testing",
+              "testing-framework"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2820,12 +4767,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQUAPE - Python package that extends Squish API",
+            "homepage": "https://squape.cyberalpaca.com",
             "id": 615831801,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-05T10:10:54Z",
+            "open_issues": 2,
             "owner": "CyberAlpaca",
             "repo": "squish-api-python-extension",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "python",
+              "qt",
+              "squish",
+              "test",
+              "test-automation",
+              "testing-library"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         },
@@ -2836,12 +4795,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accessibility-focused DOM testing library for tdom, built with modern Python 3.14+.",
+            "homepage": "https://t-strings.github.io/aria-testing/",
             "id": 1107299018,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-11T23:54:11Z",
+            "open_issues": 0,
             "owner": "t-strings",
             "repo": "aria-testing",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
         }
@@ -2860,12 +4824,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                "homepage": "https://awesome-python.com/",
                 "id": 21289110,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T04:08:40Z",
+                "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316789
+                "stars": 316808,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "python",
+                  "python-frameworks",
+                  "python-libraries",
+                  "python-tools"
+                ]
               },
               "first_seen": "2026-08-29T02:06:40.022Z"
             },
@@ -2876,12 +4852,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info",
+                "homepage": "https://testomat.io",
                 "id": 29977860,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-11-28T16:02:39Z",
+                "open_issues": 135,
                 "owner": "atinfo",
                 "repo": "awesome-test-automation",
-                "stars": 7147
+                "stars": 7147,
+                "topics": [
+                  "android",
+                  "awesome",
+                  "awesome-list",
+                  "build-automation",
+                  "c-sharp",
+                  "framework",
+                  "ios",
+                  "java",
+                  "javascript",
+                  "kotlin",
+                  "load-testing",
+                  "mobile",
+                  "performance-testing",
+                  "php",
+                  "python",
+                  "ruby",
+                  "software-quality",
+                  "software-testing",
+                  "test-automation",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-29T02:06:40.022Z"
             },
@@ -2892,12 +4894,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome pytest resources",
+                "homepage": null,
                 "id": 110533057,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-24T17:41:32Z",
+                "open_issues": 5,
                 "owner": "augustogoulart",
                 "repo": "awesome-pytest",
-                "stars": 574
+                "stars": 575,
+                "topics": [
+                  "awesome",
+                  "digitalocean",
+                  "hacktoberfest",
+                  "open-source",
+                  "pytest",
+                  "python",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T02:06:40.022Z"
             },
@@ -2908,12 +4923,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing resources: how to make better code by introducing bugs",
+                "homepage": null,
                 "id": 93941603,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-27T13:01:32Z",
+                "open_issues": 2,
                 "owner": "theofidry",
                 "repo": "awesome-mutation-testing",
-                "stars": 469
+                "stars": 469,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "mutation-analysis",
+                  "mutation-testing"
+                ]
               },
               "first_seen": "2026-08-29T02:06:40.022Z"
             },
@@ -2924,12 +4949,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Commit Check enforces commit metadata standards — commit messages, branch naming, committer info, signoff, and more.",
+                "homepage": "https://commit-check.com/",
                 "id": 485387677,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T22:08:11Z",
+                "open_issues": 4,
                 "owner": "commit-check",
                 "repo": "commit-check",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "ai-attribution",
+                  "branch-naming",
+                  "code-quality",
+                  "commit-check",
+                  "conventional-branch",
+                  "conventional-commits",
+                  "devops",
+                  "git-hooks",
+                  "git-lint",
+                  "naming-conventions",
+                  "pre-commit",
+                  "standard-naming",
+                  "yet-another-commit-checker"
+                ]
               },
               "first_seen": "2026-08-29T02:06:40.022Z"
             },
@@ -2940,12 +4984,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome resources, tools, libraries, and projects for Behave — BDD, Python style. ",
+                "homepage": "https://mathiaspaulenko.github.io/awesome-behave/",
                 "id": 1296054315,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T01:21:27Z",
+                "open_issues": 0,
                 "owner": "MathiasPaulenko",
                 "repo": "awesome-behave",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bdd",
+                  "behave",
+                  "cucumber",
+                  "gherkin",
+                  "python",
+                  "qa",
+                  "test-automation",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T02:06:40.022Z"
             }
@@ -2959,15 +5019,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:06:40.022Z",
+    "last_updated": "2026-08-29T04:46:02.295Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of awesome 😎️ Python resources for testing ",
+      "homepage": null,
       "id": 347465284,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-26T17:10:32Z",
+      "open_issues": 2,
       "owner": "cleder",
       "repo": "awesome-python-testing",
-      "stars": 307
+      "stars": 307,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "python",
+        "python-testing",
+        "test-runners",
+        "testing"
+      ]
     },
     "original_repository_sha": "a9c0252a10af1de9aeccf65ffe7002c05458440d",
     "enhanced_repository": "enhansome/enhansome-python-testing",
