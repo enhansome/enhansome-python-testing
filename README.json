@@ -523,7 +523,7 @@
             "open_issues": 41,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19423,
+            "stars": 19422,
             "topics": [
               "dataset",
               "fake",
@@ -554,7 +554,7 @@
             "open_issues": 15,
             "owner": "lk-geimfari",
             "repo": "mimesis",
-            "stars": 4839,
+            "stars": 4840,
             "topics": [
               "data",
               "dataframe",
@@ -985,7 +985,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-26T09:11:45Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "locustio",
             "repo": "locust",
             "stars": 28195,
@@ -1255,8 +1255,8 @@
             "id": 8277372,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T06:37:07Z",
-            "open_issues": 89,
+            "last_commit": "2026-10-03T02:56:49Z",
+            "open_issues": 88,
             "owner": "getmoto",
             "repo": "moto",
             "stars": 8690,
@@ -1302,8 +1302,8 @@
             "id": 14437755,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T14:47:42Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-03T00:08:09Z",
+            "open_issues": 46,
             "owner": "getsentry",
             "repo": "responses",
             "stars": 4343,
@@ -2028,7 +2028,7 @@
             "open_issues": 80,
             "owner": "litestar-org",
             "repo": "polyfactory",
-            "stars": 1512,
+            "stars": 1513,
             "topics": [
               "beanie",
               "dataclasses",
@@ -2348,8 +2348,8 @@
             "id": 986916642,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T05:00:47Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T05:03:19Z",
+            "open_issues": 6,
             "owner": "reporterplus",
             "repo": "pytest-html-plus",
             "stars": 72,
@@ -2503,7 +2503,7 @@
             "open_issues": 13,
             "owner": "schemathesis",
             "repo": "schemathesis",
-            "stars": 3644,
+            "stars": 3645,
             "topics": [
               "api",
               "api-testing",
@@ -2536,7 +2536,7 @@
             "open_issues": 299,
             "owner": "microsoft",
             "repo": "restler-fuzzer",
-            "stars": 2951,
+            "stars": 2952,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
@@ -3143,11 +3143,11 @@
             "id": 523043277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:41:04Z",
+            "last_commit": "2026-10-03T00:47:17Z",
             "open_issues": 2187,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49881,
+            "stars": 49882,
             "topics": [
               "linter",
               "pep8",
@@ -3180,7 +3180,7 @@
             "open_issues": 260,
             "owner": "PyCQA",
             "repo": "bandit",
-            "stars": 8289,
+            "stars": 8290,
             "topics": [
               "bandit",
               "linter",
@@ -3206,10 +3206,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-02T22:45:45Z",
-            "open_issues": 1030,
+            "open_issues": 1032,
             "owner": "pylint-dev",
             "repo": "pylint",
-            "stars": 5730,
+            "stars": 5731,
             "topics": [
               "closember",
               "code-quality",
@@ -3238,7 +3238,7 @@
             "open_issues": 152,
             "owner": "crate-ci",
             "repo": "typos",
-            "stars": 4167,
+            "stars": 4168,
             "topics": [
               "cli",
               "code-quality",
@@ -3383,7 +3383,7 @@
             "open_issues": 12,
             "owner": "rohaquinlop",
             "repo": "complexipy",
-            "stars": 870,
+            "stars": 871,
             "topics": [
               "clean-code",
               "code-quality",
@@ -3485,8 +3485,8 @@
             "id": 52413187,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T22:23:45Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-03T01:05:18Z",
+            "open_issues": 75,
             "owner": "wntrblm",
             "repo": "nox",
             "stars": 1563,
@@ -4567,7 +4567,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "📊 Python framework for browser automation, data-scraping, and E2E testing. CDP Mode uses stealth for bypassing bot-detection/CAPTCHAs.",
+            "description": "Python APIs for Browser Automation, E2E Testing, and Web Scraping. CDP Mode bypasses bot-detection and handles CAPTCHAs. Includes a Stealth mode for Playwright.",
             "homepage": "https://seleniumbase.io",
             "id": 17420614,
             "language": "Python",
@@ -4576,12 +4576,13 @@
             "open_issues": 10,
             "owner": "seleniumbase",
             "repo": "SeleniumBase",
-            "stars": 13046,
+            "stars": 13045,
             "topics": [
               "anti-detection",
               "bot-detection",
               "chromedriver",
               "chromium",
+              "cloudflare-bypass",
               "e2e-testing",
               "end-to-end-testing",
               "playwright",
@@ -4592,7 +4593,8 @@
               "seleniumbase",
               "test-automation",
               "web-automation",
-              "web-scraping"
+              "web-scraping",
+              "web-scraping-python"
             ]
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
@@ -4613,7 +4615,7 @@
             "open_issues": 584,
             "owner": "asweigart",
             "repo": "pyautogui",
-            "stars": 12725,
+            "stars": 12724,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.022Z"
@@ -5084,10 +5086,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T12:01:28Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 324737,
+                "stars": 324781,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -5274,7 +5276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:56:13.523Z",
+    "last_updated": "2026-10-03T05:04:54.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome 😎️ Python resources for testing ",
