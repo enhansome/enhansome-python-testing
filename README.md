@@ -33,7 +33,7 @@ Collection of awesome Python resources for testing and generating test data.
 ## Assertions
 
 * [dirty-equals](https://github.com/samuelcolvin/dirty-equals) ⭐ 1,010 | 🐛 29 | 🌐 Python | 📅 2026-08-10 - A python library that (mis)uses the `__eq__` method to make python code (generally unit tests) more declarative and therefore easier to read and write.
-* [PyHamcrest](https://github.com/hamcrest/PyHamcrest) ⭐ 805 | 🐛 27 | 🌐 Python | 📅 2026-09-29 - A framework for writing matcher objects, allowing you to declaratively define "match" rules.
+* [PyHamcrest](https://github.com/hamcrest/PyHamcrest) ⭐ 805 | 🐛 25 | 🌐 Python | 📅 2026-10-13 - A framework for writing matcher objects, allowing you to declaratively define "match" rules.
 * [sure](https://github.com/gabrielfalcao/sure) ⭐ 700 | 🐛 25 | 🌐 Python | 📅 2025-03-01 - An idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js.
 * [Precisely](https://github.com/mwilliamson/python-precisely) ⭐ 245 | 🐛 6 | 🌐 Python | 📅 2025-09-16 - Write precise assertions so you only test the behaviour you're really interested in.
 * [expects](https://github.com/jaimegildesagredo/expects) ⭐ 221 | 🐛 19 | 🌐 Python | 📅 2025-02-17 - Expects is an expressive and extensible TDD/BDD assertion library for Python.
@@ -44,17 +44,17 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Behavior-driven Development
 
-* [behave](https://github.com/behave/behave) ⭐ 3,536 | 🐛 72 | 🌐 Python | 📅 2026-10-12 - is behavior-driven development, Python style.
+* [behave](https://github.com/behave/behave) ⭐ 3,537 | 🐛 72 | 🌐 Python | 📅 2026-10-12 - is behavior-driven development, Python style.
 * [lettuce](https://github.com/gabrielfalcao/lettuce) ⭐ 1,276 | 🐛 101 | 🌐 Python | 📅 2020-12-29 - Behavior-driven-development tool for python, inspired by Cucumber for Ruby.
 * [pytest-pyspec](https://github.com/felipecrp/pytest-pyspec) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-11-18 - Transforms pytest output into a beautiful, readable format similar to RSpec. It provides semantic meaning to your tests by organizing them into descriptive hierarchies.
 * [mamba](http://nestorsalceda.github.io/mamba) - The definitive testing tool for Python. Born under the banner of BDD.
 
 ## Code Coverage
 
-* [Coverage.py](https://github.com/nedbat/coveragepy) ⭐ 3,416 | 🐛 323 | 🌐 Python | 📅 2026-10-12 - is a tool for measuring code coverage of Python programs.
-* [diff\_cover](https://github.com/Bachmann1234/diff_cover) ⭐ 848 | 🐛 53 | 🌐 Python | 📅 2026-10-01 - Automatically find diff lines that need test coverage.
+* [Coverage.py](https://github.com/nedbat/coveragepy) ⭐ 3,418 | 🐛 324 | 🌐 Python | 📅 2026-10-13 - is a tool for measuring code coverage of Python programs.
+* [diff\_cover](https://github.com/Bachmann1234/diff_cover) ⭐ 849 | 🐛 53 | 🌐 Python | 📅 2026-10-01 - Automatically find diff lines that need test coverage.
 * [slipcover](https://github.com/plasma-umass/slipcover) ⭐ 587 | 🐛 7 | 🌐 Python | 📅 2026-08-14 - Near Zero-Overhead Python Code Coverage.
-* [supercov](https://github.com/supercorp-ai/supercov) ⭐ 154 | 🐛 0 | 🌐 Rust | 📅 2026-10-13 - Python coverage, security and code quality for coding agents.
+* [supercov](https://github.com/supercorp-ai/supercov) ⭐ 154 | 🐛 1 | 🌐 Rust | 📅 2026-10-13 - Python coverage, security and code quality for coding agents.
 * [coverage-conditional-plugin](https://github.com/wemake-services/coverage-conditional-plugin) ⭐ 81 | 🐛 15 | 🌐 Python | 📅 2025-01-03 - Conditional coverage based on any rules you define.
 
 ## Design by Contract
@@ -65,8 +65,8 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Fake Data
 
-* [faker](https://github.com/joke2k/faker) ⭐ 19,440 | 🐛 43 | 🌐 Python | 📅 2026-10-09 - A Python package that generates fake data.
-* [mimesis](https://github.com/lk-geimfari/mimesis) ⭐ 4,847 | 🐛 16 | 🌐 Python | 📅 2026-10-06 - A Python library that helps you generate fake data.
+* [faker](https://github.com/joke2k/faker) ⭐ 19,442 | 🐛 45 | 🌐 Python | 📅 2026-10-09 - A Python package that generates fake data.
+* [mimesis](https://github.com/lk-geimfari/mimesis) ⭐ 4,847 | 🐛 17 | 🌐 Python | 📅 2026-10-06 - A Python library that helps you generate fake data.
 * [fake2db](https://github.com/emirozer/fake2db) ⭐ 2,343 | 🐛 7 | 🌐 Python | 📅 2019-11-25 - Fake database generator.
 * [autofaker](https://github.com/christianhelle/autofaker) ⭐ 8 | 🐛 7 | 🌐 Python | 📅 2026-10-11 - designed to minimize the setup/arrange phase of your unit tests by removing the need to manually write code to create anonymous variables as part of a test cases setup/arrange phase.
 * [genuine-fake](https://github.com/xeroxzen/genuine-fake) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2025-08-20 - Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical.
@@ -81,15 +81,16 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## LLM & MCP Testing
 
-* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 285 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - Records a Python agent's calls to its model provider from outside the process, then serves the recording back so the same run happens again with the provider unreachable and no key. Turns a failed session into a regression test. Apache-2.0.
+* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 284 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - Records a Python agent's calls to its model provider from outside the process, then serves the recording back so the same run happens again with the provider unreachable and no key. Turns a failed session into a regression test. Apache-2.0.
 * [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2026-08-08 - A comprehensive fuzzing tool designed specifically for testing Model Context Protocol (MCP) servers. It supports both tool argument fuzzing and protocol type fuzzing across multiple transport protocols.
 * [Tenro](https://github.com/tenro-ai/tenro-python) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-06-09 - An open-source, provider-agnostic testing framework for AI agents that integrates with pytest. It simulates LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
+* [spantruth](https://github.com/Plexito-de/spantruth) ⭐ 2 | 🐛 6 | 🌐 Python | 📅 2026-10-12 - Test suite for Python LLM telemetry libraries such as OpenLLMetry and OpenInference. A local fake provider serves OpenAI and Anthropic responses, including streams, prompt-cache hits, 429s and dropped connections, and spantruth checks the token counts, models and errors on the resulting spans, and whether each span ends, against what was sent. Apache-2.0.
 * [agent-convergence-scorer](https://github.com/hermes-labs-ai/agent-convergence-scorer) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-28 - A CLI and Python library that scores how lexically similar N agent or LLM outputs are: exact-match rate, Jaccard token overlap, divergence point, and a composite convergence score over any list of runs. An eval primitive for measuring reproducibility and fan-out collapse. Zero deps.
 * [Sabot](https://github.com/Jott2121/sabot) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-10-11 - Plants controlled faults inside running multi-agent pipelines (LangGraph, CrewAI, AutoGen) and scores whether each pipeline's own reviewer and guardrail stages detect them. Pre-registered spec, deterministic adjudication, published raw traces.
 
 ## Load Testing
 
-* [Locust](https://github.com/locustio/locust) ⭐ 28,199 | 🐛 11 | 🌐 Python | 📅 2026-10-11 - Scalable user load testing tool written in Python.
+* [Locust](https://github.com/locustio/locust) ⭐ 28,202 | 🐛 12 | 🌐 Python | 📅 2026-10-11 - Scalable user load testing tool written in Python.
 * [Grasshopper](https://github.com/alteryx/locust-grasshopper) ⭐ 196 | 🐛 1 | 🌐 Python | 📅 2026-08-05 - A lightweight framework for performing load tests against an environment, primarily against an API. Grasshopper glues Locust, Pytest, some plugins (namely Locust InfluxDBListener ) and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
 * [pynonymizer](https://github.com/jerometwell/pynonymizer) ⭐ 117 | 🐛 6 | 🌐 Python | 📅 2026-05-07 - is a universal tool for translating sensitive production database dumps into anonymized copies.
 * [Grizzly](https://github.com/biometria-se/grizzly) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-09-03 - is a framework to be able to easily define load scenarios, and is mainly built on-top of Locust and Behave.
@@ -98,16 +99,17 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Memory Management
 
-* [Pympler](https://github.com/pympler/pympler) ⭐ 1,412 | 🐛 73 | 🌐 Python | 📅 2025-06-07 - is a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
+* [Pympler](https://github.com/pympler/pympler) ⭐ 1,412 | 🐛 72 | 🌐 Python | 📅 2025-06-07 - is a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 * [filprofiler](https://github.com/pythonspeed/filprofiler) ⭐ 907 | 🐛 106 | 🌐 Rust | 📅 2026-05-03 - A Python memory profiler for data processing and scientific computing applications.
-* [Guppy 3](https://github.com/zhuyifei1999/guppy3) ⭐ 433 | 🐛 5 | 🌐 Python | 📅 2026-09-08 - a Python programming environment & heap analysis toolset.
+* [Guppy 3](https://github.com/zhuyifei1999/guppy3) ⭐ 433 | 🐛 6 | 🌐 Python | 📅 2026-09-08 - a Python programming environment & heap analysis toolset.
 * [mem\_top](https://github.com/denis-ryzhkov/mem_top) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2022-07-13 - shows top suspects for memory leaks in your Python program.
 * [tracemalloc](https://docs.python.org/3/library/tracemalloc.html) - is a debug tool to trace memory blocks allocated by Python.
 
 ## Mock and Stub
 
-* [moto](https://github.com/spulec/moto) ⭐ 8,699 | 🐛 111 | 🌐 Python | 📅 2026-10-12 - allows you to easily mock out tests based on AWS infrastructure.
-* [freezegun](https://github.com/spulec/freezegun) ⭐ 4,530 | 🐛 172 | 🌐 Python | 📅 2025-08-19 - Travel through time by mocking the datetime module.
+* [Keploy](https://github.com/keploy/keploy) ⭐ 18,568 | 🐛 790 | 🌐 Go | 📅 2026-10-13 - record & replay API traffic as tests with auto-generated dependency mocks in isolated sandboxes.
+* [moto](https://github.com/spulec/moto) ⭐ 8,702 | 🐛 113 | 🌐 Python | 📅 2026-10-12 - allows you to easily mock out tests based on AWS infrastructure.
+* [freezegun](https://github.com/spulec/freezegun) ⭐ 4,529 | 🐛 172 | 🌐 Python | 📅 2025-08-19 - Travel through time by mocking the datetime module.
 * [responses](https://github.com/getsentry/responses) ⭐ 4,343 | 🐛 51 | 🌐 Python | 📅 2026-10-06 - A utility library for mocking out the requests Python library.
 * [httpretty](https://github.com/gabrielfalcao/HTTPretty) ⭐ 2,149 | 🐛 130 | 🌐 Python | 📅 2024-06-09 - HTTP request mock tool for Python.
 * [time-machine](https://github.com/adamchainz/time-machine) ⭐ 1,012 | 🐛 9 | 🌐 Python | 📅 2026-10-05 - Travel through time in your tests.
@@ -118,8 +120,8 @@ Collection of awesome Python resources for testing and generating test data.
 * [Pretend](https://github.com/alex/pretend) ⭐ 318 | 🐛 4 | 🌐 Python | 📅 2024-06-22 - is a library to make stubbing with Python easier.
 * [mocket](https://github.com/mindflayer/python-mocket) ⭐ 313 | 🐛 5 | 🌐 Python | 📅 2026-10-05 - A socket mock framework with gevent/asyncio/SSL support.
 * [Mockintosh](https://github.com/up9inc/mockintosh) ⭐ 178 | 🐛 23 | 🌐 Python | 📅 2022-09-20 - aims to provide usual HTTP mock service functionality with small resource footprint, making it friendly for microservice applications.
-* [Cornell](https://github.com/hiredscorelabs/cornell) ⭐ 143 | 🐛 1 | 🌐 Python | 📅 2026-07-06 - record & replay mock server.
-* [Mockafka](https://github.com/alm0ra/mockafka-py) ⭐ 66 | 🐛 16 | 🌐 Python | 📅 2026-10-08 - Python library designed for mocking Kafka in a testing environment. It simplifies testing Kafka-integrated applications by providing an in-memory mock for aiokafka and confluent-kafka-python.
+* [Cornell](https://github.com/hiredscorelabs/cornell) ⭐ 144 | 🐛 1 | 🌐 Python | 📅 2026-07-06 - record & replay mock server.
+* [Mockafka](https://github.com/alm0ra/mockafka-py) ⭐ 66 | 🐛 21 | 🌐 Python | 📅 2026-10-13 - Python library designed for mocking Kafka in a testing environment. It simplifies testing Kafka-integrated applications by providing an in-memory mock for aiokafka and confluent-kafka-python.
 * [Flexmock](https://github.com/flexmock/flexmock) ⭐ 65 | 🐛 29 | 🌐 Python | 📅 2026-10-07 - is a testing library for Python that makes it easy to create mocks, stubs and fakes.
 * [D-MemFS](https://github.com/nightmarewalker/D-MemFS) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-03-22 - Zero-dependency in-memory virtual filesystem with hard quotas. Provides an explicit, isolated instance instead of patching global state.
 * [Kesha](https://github.com/NUTtech/Kesha) ⭐ 16 | 🐛 29 | 🌐 Python | 📅 2023-03-06 - A web service with a user interface for testing http requests and web hooks.
@@ -129,11 +131,11 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Mutation Testing
 
-* [Mutmut](https://github.com/boxed/mutmut) ⭐ 1,476 | 🐛 68 | 🌐 Python | 📅 2026-09-12 - is a mutation testing system for Python, with a strong focus on ease of use.
+* [Mutmut](https://github.com/boxed/mutmut) ⭐ 1,477 | 🐛 72 | 🌐 Python | 📅 2026-09-12 - is a mutation testing system for Python, with a strong focus on ease of use.
 * [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) ⭐ 660 | 🐛 57 | 🌐 Python | 📅 2026-08-09 - makes small changes to your source code, running your test suite for each one.
 * [MutPy](https://github.com/mutpy/mutpy) ⭐ 368 | 🐛 36 | 🌐 Python | 📅 2024-04-23 - MutPy is a mutation testing tool for Python 3.x source code
 * [Mutatest](https://github.com/EvanKepner/mutatest) ⭐ 103 | 🐛 7 | 🌐 Python | 📅 2023-02-17 - Python mutation testing.
-* [AdversaryGate](https://github.com/Sanflow10/adversary-gate) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-10-12 - Merge gate for AI-written patches: runs the tests on the baseline and on the patch, mutates only the lines the patch wrote, and answers MERGE, BLOCK or INCONCLUSIVE. Missing coverage or too few killed mutants is INCONCLUSIVE, never a pass. On PyPI as `adversary-gate`.
+* [AdversaryGate](https://github.com/Sanflow10/adversary-gate) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-10-13 - Merge gate for AI-written patches: runs the tests on the baseline and on the patch, mutates only the lines the patch wrote, and answers MERGE, BLOCK or INCONCLUSIVE. Missing coverage or too few killed mutants is INCONCLUSIVE, never a pass. On PyPI as `adversary-gate`.
 * [xmutant.py](https://github.com/vrthra/xmutant.py) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2018-11-18 - Python 3.6 bytecode based mutation analysis framework
 * [greencheck](https://github.com/simin-yuan/greencheck) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-09 - Mutation testing aimed at the checker instead of the code: it mutates a known-good input and reports which mutations a validator, linter or CI quality gate fails to reject. Zero dependencies; on PyPI as `greencheck`.
 * [bough](https://github.com/CodeEnPlace/bough) ⭐ 1 | 🐛 33 | 🌐 Rust | 📅 2026-04-10 - Bough is a polyglot incremental mutation tester.
@@ -149,12 +151,12 @@ Collection of awesome Python resources for testing and generating test data.
 ## Penetration Testing
 
 * [python-pentest-tools](https://github.com/dloss/python-pentest-tools) ⭐ 2,887 | 🐛 2 | 📅 2026-10-02 - Python tools for penetration testers.
-* [fsociety](https://github.com/fsociety-team/fsociety) ⭐ 1,848 | 🐛 23 | 🌐 Python | 📅 2026-10-12 - A Modular Penetration Testing Framework.
+* [fsociety](https://github.com/fsociety-team/fsociety) ⭐ 1,849 | 🐛 24 | 🌐 Python | 📅 2026-10-12 - A Modular Penetration Testing Framework.
 * [fencer](https://github.com/abunuwas/fencer) ⭐ 92 | 🐛 4 | 🌐 Python | 📅 2024-08-02 - Fencer is an automated API security testing tool. It's an experimental project to see how much of the API security testing process can be automated.
 
 ## Property Based Testing
 
-* [Hypothesis](https://github.com/HypothesisWorks/hypothesis) ⭐ 9,077 | 🐛 54 | 🌐 Python | 📅 2026-10-11 - is an advanced Quickcheck style property based testing library.
+* [Hypothesis](https://github.com/HypothesisWorks/hypothesis) ⭐ 9,081 | 🐛 54 | 🌐 Python | 📅 2026-10-13 - is an advanced Quickcheck style property based testing library.
 * [Atheris](https://github.com/google/atheris) ⭐ 1,687 | 🐛 42 | 🌐 Python | 📅 2026-06-17 - is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython.
 * [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto/) ⭐ 355 | 🐛 6 | 🌐 Python | 📅 2023-09-23 - An extensions for Hypothesis that provides fully automatic testing for type hinted functions.
 * [hypofuzz](https://github.com/Zac-HD/hypofuzz) ⭐ 124 | 🐛 30 | 🌐 Python | 📅 2026-05-15 - Adaptive fuzzing of Hypothesis tests.
@@ -168,12 +170,12 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Rest API Testing
 
-* [HttpRunner](https://github.com/httprunner/httprunner) ⭐ 4,301 | 🐛 503 | 🌐 Go | 📅 2025-12-11 - is a simple & elegant, yet powerful HTTP(S) testing framework.
+* [HttpRunner](https://github.com/httprunner/httprunner) ⭐ 4,302 | 🐛 503 | 🌐 Go | 📅 2025-12-11 - is a simple & elegant, yet powerful HTTP(S) testing framework.
 * [Dredd](https://github.com/apiaryio/dredd) ⚠️ Archived - is a language-agnostic command-line tool for validating API description document against backend implementation of the API.
-* [Schemathesis](https://github.com/kiwicom/schemathesis) ⭐ 3,663 | 🐛 26 | 🌐 Python | 📅 2026-10-12 - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
+* [Schemathesis](https://github.com/kiwicom/schemathesis) ⭐ 3,664 | 🐛 28 | 🌐 Python | 📅 2026-10-13 - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
 * [RESTler](https://github.com/microsoft/restler-fuzzer) ⭐ 2,953 | 🐛 300 | 🌐 Python | 📅 2026-06-10 - is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 * [cherrybomb](https://github.com/blst-security/cherrybomb) ⭐ 1,238 | 🐛 38 | 🌐 Rust | 📅 2024-10-25 - CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
-* [Tavern](https://github.com/taverntesting/tavern) ⭐ 1,163 | 🐛 19 | 🌐 Python | 📅 2026-10-12 - is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.
+* [Tavern](https://github.com/taverntesting/tavern) ⭐ 1,163 | 🐛 19 | 🌐 Python | 📅 2026-10-13 - is a pytest plugin, command-line tool and Python library for automated testing of APIs, with a simple, concise and flexible YAML-based syntax.
 * [playback](https://github.com/Optibus/playback) ⭐ 107 | 🐛 3 | 🌐 Python | 📅 2026-09-29 - A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).
 * [behave-restful](https://github.com/behave-restful/behave-restful) ⭐ 67 | 🐛 4 | 🌐 Python | 📅 2026-08-17 - BDD Framework to Test REST Services and APIs.
 * [hypothesis-graphql](https://github.com/Stranger6667/hypothesis-graphql) ⭐ 48 | 🐛 3 | 🌐 Python | 📅 2026-10-11 - Hypothesis strategies for GraphQL schemas, queries and data.
@@ -183,15 +185,15 @@ Collection of awesome Python resources for testing and generating test data.
 ## Retrying Tests
 
 * [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) ⭐ 479 | 🐛 36 | 🌐 Python | 📅 2026-10-07 - A pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures.
-* [pytest-check](https://github.com/okken/pytest-check) ⭐ 428 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - A pytest plugin that allows multiple failed assertions per test function, so you can see the whole picture of what's going wrong.
+* [pytest-check](https://github.com/okken/pytest-check) ⭐ 428 | 🐛 1 | 🌐 Python | 📅 2026-10-12 - A pytest plugin that allows multiple failed assertions per test function, so you can see the whole picture of what's going wrong.
 * [pytest-leak-finder](https://github.com/mgaitan/pytest-leak-finder) ⭐ 42 | 🐛 4 | 🌐 Python | 📅 2025-12-19 - You have a test that passes when executed alone but fails when running its suite. What's happening? My two cents that some previous test keeps the things dirty. But which one/s, maybe the previous are a lot, right?
 * [pytest-retry](https://github.com/str0zzapreti/pytest-retry) ⭐ 41 | 🐛 11 | 🌐 Python | 📅 2025-01-19 - A simple plugin for retrying flaky tests in CI environments.
 * [pytest-cleanslate](https://github.com/plasma-umass/pytest-cleanslate) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-04-10 - work around or find test state pollution by giving each test module a "clean slate" to execute.
 
 ## Snapshot Tests
 
-* [VCR.py](https://github.com/kevin1024/vcrpy) ⭐ 3,020 | 🐛 183 | 🌐 Python | 📅 2026-09-15 - Record and replay HTTP interactions on your tests.
-* [syrupy](https://github.com/tophat/syrupy) ⭐ 891 | 🐛 13 | 🌐 Python | 📅 2026-10-04 - is a zero-dependency pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
+* [VCR.py](https://github.com/kevin1024/vcrpy) ⭐ 3,021 | 🐛 182 | 🌐 Python | 📅 2026-10-13 - Record and replay HTTP interactions on your tests.
+* [syrupy](https://github.com/tophat/syrupy) ⭐ 891 | 🐛 13 | 🌐 Python | 📅 2026-10-13 - is a zero-dependency pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
 * [inline-snapshot](https://github.com/15r10nk/inline-snapshot/) ⭐ 756 | 🐛 24 | 🌐 Python | 📅 2026-10-12 - a pytest plugin that boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.
 * [SnapshotTest](https://github.com/syrusakbary/snapshottest) ⭐ 549 | 🐛 54 | 🌐 Python | 📅 2024-08-01 - is a way to test your APIs without writing actual test cases.
 * [ApprovalTests](https://github.com/approvals/ApprovalTests.Python) ⭐ 212 | 🐛 15 | 🌐 Python | 📅 2026-10-12 - work by comparing the test results to a golden master.
@@ -206,33 +208,33 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Static Checks
 
-* [ruff](https://github.com/charliermarsh/ruff) ⭐ 50,031 | 🐛 2,238 | 🌐 Rust | 📅 2026-10-13 - An extremely fast Python linter, written in Rust.
-* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,306 | 🐛 262 | 🌐 Python | 📅 2026-10-12 - is a tool designed to find common security issues in Python code.
-* [Pylint](https://github.com/PyCQA/pylint) ⭐ 5,735 | 🐛 1,003 | 🌐 Python | 📅 2026-10-12 - A Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
-* [typos](https://github.com/crate-ci/typos) ⭐ 4,183 | 🐛 151 | 🌐 Rust | 📅 2026-10-06 - A Source code spell checker that finds and corrects spelling mistakes in source code.
-* [Refurb](https://github.com/dosisod/refurb) ⭐ 2,532 | 🐛 38 | 🌐 Python | 📅 2026-10-04 - A tool for refurbishing and modernizing Python codebases.
+* [ruff](https://github.com/charliermarsh/ruff) ⭐ 50,053 | 🐛 2,227 | 🌐 Rust | 📅 2026-10-13 - An extremely fast Python linter, written in Rust.
+* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,309 | 🐛 262 | 🌐 Python | 📅 2026-10-12 - is a tool designed to find common security issues in Python code.
+* [Pylint](https://github.com/PyCQA/pylint) ⭐ 5,736 | 🐛 1,005 | 🌐 Python | 📅 2026-10-13 - A Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+* [typos](https://github.com/crate-ci/typos) ⭐ 4,188 | 🐛 151 | 🌐 Rust | 📅 2026-10-06 - A Source code spell checker that finds and corrects spelling mistakes in source code.
+* [Refurb](https://github.com/dosisod/refurb) ⭐ 2,533 | 🐛 38 | 🌐 Python | 📅 2026-10-04 - A tool for refurbishing and modernizing Python codebases.
 * [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) ⭐ 1,988 | 🐛 7 | 📅 2026-09-23 - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 * [pyflakes](https://github.com/PyCQA/pyflakes) ⭐ 1,461 | 🐛 60 | 🌐 Python | 📅 2026-10-08 - A simple program which checks Python source files for errors.
 * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) ⭐ 1,283 | 🐛 1 | 📅 2026-07-21 - A curated list of awesome flake8 extensions.
-* [complexipy](https://github.com/rohaquinlop/complexipy) ⭐ 877 | 🐛 15 | 🌐 Rust | 📅 2026-10-12 - An extremely fast Python library to calculate the cognitive complexity of Python files, written in Rust.
+* [complexipy](https://github.com/rohaquinlop/complexipy) ⭐ 879 | 🐛 11 | 🌐 Rust | 📅 2026-10-13 - An extremely fast Python library to calculate the cognitive complexity of Python files, written in Rust.
 * [pyanalyze](https://github.com/quora/pyanalyze) ⭐ 386 | 🐛 61 | 🌐 Python | 📅 2026-01-27 - A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and some categories of type mismatches.
 * [slotscheck](https://github.com/ariebovenberg/slotscheck) ⭐ 128 | 🐛 11 | 🌐 Python | 📅 2026-10-05 - Find mistakes in your `__slots__` definitions.
 * [Typecheckers](https://github.com/ethanhs/python-typecheckers) ⭐ 76 | 🐛 1 | 📅 2026-03-19 - A list of Python type checkers.
-* [repro-lens](https://github.com/00200200/repro-lens) ⭐ 45 | 🐛 23 | 🌐 Python | 📅 2026-10-09 - Static ML reproducibility and determinism audit tool for Python codebases, verifying random seed flows, data loading invariants, and deterministic test replay.
+* [repro-lens](https://github.com/00200200/repro-lens) ⭐ 45 | 🐛 24 | 🌐 Python | 📅 2026-10-13 - Static ML reproducibility and determinism audit tool for Python codebases, verifying random seed flows, data loading invariants, and deterministic test replay.
 * [flake8](https://gitlab.com/pycqa/flake8) - is a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of python code.
 
 ## Test Runners
 
-* [Nox](https://github.com/theacodes/nox) ⭐ 1,562 | 🐛 80 | 🌐 Python | 📅 2026-10-11 - is a command-line tool that automates testing in multiple Python environments, similar to tox. Unlike tox, Nox uses a standard Python file for configuration.
+* [Nox](https://github.com/theacodes/nox) ⭐ 1,561 | 🐛 76 | 🌐 Python | 📅 2026-10-13 - is a command-line tool that automates testing in multiple Python environments, similar to tox. Unlike tox, Nox uses a standard Python file for configuration.
 * [green](https://github.com/CleanCut/green) ⭐ 804 | 🐛 8 | 🌐 Python | 📅 2024-11-12 - A clean, colorful test runner.
 * [tox](https://tox.readthedocs.io/en/latest) - Auto builds and tests distributions in multiple Python versions.
 
 ## Testing Frameworks
 
-* [Robot Framework](https://github.com/robotframework/robotframework) ⭐ 11,935 | 🐛 311 | 🌐 Python | 📅 2026-10-06 - A generic test automation framework.
+* [Robot Framework](https://github.com/robotframework/robotframework) ⭐ 11,939 | 🐛 311 | 🌐 Python | 📅 2026-10-06 - A generic test automation framework.
 * [pytest-django](https://github.com/pytest-dev/pytest-django) ⭐ 1,546 | 🐛 190 | 🌐 Python | 📅 2026-10-05 - A pytest plugin for Django applications.
 * [Ward](https://github.com/darrenburns/ward) ⚠️ Archived - is a modern test framework for Python with a focus on productivity and readability.
-* [nose2](https://github.com/nose-devs/nose2) ⭐ 827 | 🐛 46 | 🌐 Python | 📅 2026-10-12 - The successor to `nose`, based on `unittest2`.
+* [nose2](https://github.com/nose-devs/nose2) ⭐ 827 | 🐛 48 | 🌐 Python | 📅 2026-10-13 - The successor to `nose`, based on `unittest2`.
 * [maelstrom](https://github.com/maelstrom-software/maelstrom) ⭐ 736 | 🐛 188 | 🌐 Rust | 📅 2026-09-26 - Maelstrom is a fast Rust and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
 * [awesome-pytest](https://github.com/augustogoulart/awesome-pytest) ⭐ 576 | 🐛 5 | 📅 2026-06-24 - A curated list of awesome pytest resources.
 * [promptimize](https://github.com/preset-io/promptimize) ⭐ 497 | 🐛 17 | 🌐 Python | 📅 2026-10-12 - a prompt engineering evaluation and testing toolkit. It accelerates and provides structure around prompt engineering at scale with confidence, bringing some of the ideas behind test-driven development (TDD) to engineering prompts.
@@ -254,8 +256,8 @@ Collection of awesome Python resources for testing and generating test data.
 
 ## Tools
 
-* [Pynguin](https://github.com/se2p/pynguin) ⭐ 1,392 | 🐛 2 | 🌐 Python | 📅 2026-10-12 - A tool that allows developers to generate unit tests automatically.
-* [CrossHair](https://github.com/pschanely/CrossHair) ⭐ 1,336 | 🐛 81 | 🌐 Python | 📅 2026-10-08 - An analysis tool for Python that blurs the line between testing and type systems.
+* [Pynguin](https://github.com/se2p/pynguin) ⭐ 1,392 | 🐛 2 | 🌐 Python | 📅 2026-10-13 - A tool that allows developers to generate unit tests automatically.
+* [CrossHair](https://github.com/pschanely/CrossHair) ⭐ 1,337 | 🐛 81 | 🌐 Python | 📅 2026-10-13 - An analysis tool for Python that blurs the line between testing and type systems.
 * [Klara](https://github.com/usagitoneko97/klara) ⭐ 266 | 🐛 3 | 🌐 Python | 📅 2022-03-28 - Static analysis tools to automatic generate test case, based on SMT (z3) solver, with a powerful ast level inference system.
 * [Pifpaf](https://github.com/jd/pifpaf) ⭐ 204 | 🐛 17 | 🌐 Python | 📅 2026-08-03 - A suite of fixtures and a command-line tool that allows to start and stop daemons for a quick throw-away usage. This is typically useful when needing these daemons to run integration testing.
 * [importlab](https://github.com/google/importlab) ⚠️ Archived - A library that automatically infers dependencies for Python files. Importlab's main use case is to work with static analysis tools that process one file at a time, ensuring that a file's dependencies are analysed before it is.
@@ -270,20 +272,21 @@ Collection of awesome Python resources for testing and generating test data.
 * [csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-29 - A Python CLI that checks CSV test datasets and pipeline inputs for missing columns, empty cells, and duplicate rows, with configurable rules and CI exit codes.
 * [greenproof](https://github.com/zxyasfas/greenproof) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Checks whether a coding agent's green pytest run was earned, not manufactured by editing the tests. Snapshots the original tests, then reruns the agent's current code against them to see if it still passes.
 * [import-effects](https://github.com/royalpinto007/import-effects) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-23 - Runs one import in a fresh child interpreter and reports import-time side effects (file writes, sockets, subprocesses, threads, env changes).
+* [pytest-queryguard](https://github.com/MaciejZiel/pytest-queryguard) ⭐ 0 | 🐛 4 | 🌐 Python | 📅 2026-10-13 - A pytest plugin that fails tests with N+1 queries and enforces query budgets for SQLAlchemy 2, in sync, async and FastAPI code.
 * [quick-gate-python](https://github.com/hermes-labs-ai/quick-gate-python) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-09-29 - A deterministic CI quality gate that normalizes Ruff, Pyright, and pytest results into one fail-fast decision, attempts bounded auto-repair, and escalates with machine-readable evidence when it can't finish safely. PyPI: `pygate-ci`.
 * [ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) - Writing tests with Hypothesis frees you from the tedium of deciding on and writing out specific inputs to test.
 
 ## UI Testing
 
-* [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) ⭐ 13,069 | 🐛 10 | 🌐 Python | 📅 2026-10-12 - is an all-in-one Python framework for automated browser testing. Tests are run with "pytest", and use WebDriver APIs for web-page interaction.
-* [PyAutoGUI](https://github.com/asweigart/pyautogui) ⭐ 12,734 | 🐛 582 | 🌐 Python | 📅 2024-08-20 - is a cross-platform GUI automation Python module for human beings.
-* [helium](https://github.com/mherrmann/selenium-python-helium) ⭐ 8,329 | 🐛 55 | 🌐 Python | 📅 2026-08-10 - is great for web automation. Helium makes it easier to use.
+* [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) ⭐ 13,067 | 🐛 10 | 🌐 Python | 📅 2026-10-13 - is an all-in-one Python framework for automated browser testing. Tests are run with "pytest", and use WebDriver APIs for web-page interaction.
+* [PyAutoGUI](https://github.com/asweigart/pyautogui) ⭐ 12,732 | 🐛 582 | 🌐 Python | 📅 2024-08-20 - is a cross-platform GUI automation Python module for human beings.
+* [helium](https://github.com/mherrmann/selenium-python-helium) ⭐ 8,326 | 🐛 55 | 🌐 Python | 📅 2026-08-10 - is great for web automation. Helium makes it easier to use.
 * [splinter](https://github.com/cobrateam/splinter) ⭐ 2,750 | 🐛 59 | 🌐 Python | 📅 2025-08-16 - Open source tool for testing web applications.
 * [sixpack](https://github.com/seatgeek/sixpack) ⭐ 1,754 | 🐛 89 | 🌐 Python | 📅 2022-08-21 - A language-agnostic A/B Testing framework.
 * [Lost Pixel](https://github.com/lost-pixel/lost-pixel) ⚠️ Archived - is an open source visual regression testing tool. Run visual regression tests on your Storybook and Ladle stories and on your application pages.
 * [Flybirds](https://github.com/ctripcorp/flybirds) ⭐ 916 | 🐛 35 | 🌐 Python | 📅 2025-08-27 - is a front-end UI automation test framework based on BDD mode, providing a series of out-of-the-box tools and complete documentation.
 * [Agent QA](https://github.com/vostride/agent-qa) ⭐ 903 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - A Node-based, open-source, self-improving QA agent that can exercise Python web applications externally through natural-language browser tests, persistent testing context, and self-healing tests.
-* [selene](https://github.com/yashaka/selene) ⭐ 731 | 🐛 125 | 🌐 Python | 📅 2026-09-09 - User-oriented Web UI browser tests in Python (Selenide port).
+* [selene](https://github.com/yashaka/selene) ⭐ 732 | 🐛 125 | 🌐 Python | 📅 2026-09-09 - User-oriented Web UI browser tests in Python (Selenide port).
 * [Golem](https://github.com/golemhq/golem) ⚠️ Archived - is a test framework and a complete tool for browser automation. Tests can be written with code in Python, codeless using the web IDE, or both.
 * [assay](https://github.com/awss1i/assay) ⭐ 104 | 🐛 0 | 🌐 HTML | 📅 2026-10-11 - Deterministic QA tool that drives every control on a web page in Chromium through Playwright and reports where the page contradicts itself, with no tests to write and no LLM.
 * [HMNextAuto](https://github.com/ziguiway/hmnextauto) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2026-08-26 - Python-based UI automation framework for HarmonyOS NEXT. API compatible with uiautomator2, supports XPath, image recognition, performance monitoring and notification management.
@@ -291,7 +294,7 @@ Collection of awesome Python resources for testing and generating test data.
 * [pomcorn](https://github.com/saritasa-nest/pomcorn) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-09-28 - is an open source Python package that contains base classes to create systems based on Selenium framework and Page Object Model pattern
 * [LuluTest](https://github.com/erik-whiting/LuluTest) ⭐ 16 | 🐛 6 | 🌐 Python | 📅 2024-06-18 - is an open source browser automation framework using Python and Selenium.
 * [squape](https://github.com/CyberAlpaca/squish-api-python-extension) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2024-07-05 - is a package that extends Squish API providing convenience tools for everyday automated test cases development.
-* [9lives](https://github.com/Quality-Max/9lives) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-11 - Self-healing CLI for UI tests: runs a failing pytest + Selenium spec, repairs the drifted locator offline, re-runs it, and shows a diff before applying. Refuses to rewrite assertions, so real regressions stay visible.
+* [9lives](https://github.com/Quality-Max/9lives) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-13 - Self-healing CLI for UI tests: runs a failing pytest + Selenium spec, repairs the drifted locator offline, re-runs it, and shows a diff before applying. Refuses to rewrite assertions, so real regressions stay visible.
 * [aria-testing](https://github.com/t-strings/aria-testing) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-12-11 - Accessibility-focused DOM testing library for tdom, built with modern Python 3.14+.
 * [Selenium](https://pypi.org/project/selenium) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
 
@@ -332,10 +335,10 @@ Collection of awesome Python resources for testing and generating test data.
 
 ### Related
 
-* [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md#testing) ⭐ 326,931 | 🐛 17 | 🌐 Python | 📅 2026-10-12 - A curated list of awesome Python frameworks, libraries, software and resources.
-* [Python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) ⭐ 7,178 | 🐛 150 | 📅 2025-11-28 - A comprehensive curated list of python test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on python.
+* [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md#testing) ⭐ 327,174 | 🐛 17 | 🌐 Python | 📅 2026-10-12 - A curated list of awesome Python frameworks, libraries, software and resources.
+* [Python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) ⭐ 7,177 | 🐛 150 | 📅 2025-11-28 - A comprehensive curated list of python test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on python.
 * [Awesome PyTest](https://github.com/augustogoulart/awesome-pytest) ⭐ 576 | 🐛 5 | 📅 2026-06-24 - Focused on pytest.
-* [Awesome Mutation testing](https://github.com/theofidry/awesome-mutation-testing) ⭐ 476 | 🐛 2 | 📅 2026-10-06 - Mutation testing resources: how to make better code by introducing bugs
+* [Awesome Mutation testing](https://github.com/theofidry/awesome-mutation-testing) ⭐ 477 | 🐛 2 | 📅 2026-10-06 - Mutation testing resources: how to make better code by introducing bugs
 * [commit-check](https://github.com/commit-check/commit-check) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2026-10-12 - Check commit message formatting, branch naming, commit author, email, and more.
 * [Awesome Behave](https://github.com/MathiasPaulenko/awesome-behave#readme) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - A curated list of Behave resources, tools, and libraries for Python BDD.
 
